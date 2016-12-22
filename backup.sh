@@ -7,7 +7,7 @@
 # 0 12 * * * /path/to/minecraft/backup.sh > /dev/null 2>&1
 
 CWD=$(readlink -f `dirname $0`)
-screen -S minecraft -X stuff "say [Backup] Server goes readonly in 10 seconds^M"
+screen -S minecraft -X stuff "say [Backup] Server temporarily stops for backup in 60 seconds^M"
 sleep 10
 screen -S minecraft -X stuff "save-off^M"
 screen -S minecraft -X stuff "save-all^M"

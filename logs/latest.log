@@ -7,3 +7,18 @@
 [01:50:57] [Server thread/INFO]: Turned off world auto-saving
 [01:50:57] [Server thread/INFO]: Saving...
 [01:50:57] [Server thread/INFO]: Saved the world
+[01:50:59] [Server thread/INFO]: Turned on world auto-saving
+[01:50:59] [Server thread/INFO]: [Server] [Backup] Done...
+[01:51:55] [User Authenticator #20/INFO]: UUID of player J_J_Doubletime is 335c2fe4-8836-42ce-b95b-9a5d4b1c36ca
+[01:51:55] [Server thread/INFO]: J_J_Doubletime[/141.223.201.207:52808] logged in with entity id 27093 at ([world]-256.07709222092484, 68.0, 158.64891942347998)
+[01:52:07] [Server thread/INFO]: [Server] [Backup] Server goes readonly in 10 seconds
+[01:52:17] [Server thread/INFO]: Turned off world auto-saving
+[01:52:17] [Server thread/INFO]: Saving...
+[01:52:18] [Server thread/INFO]: Saved the world
+[01:52:18] [Server thread/INFO]: Turned on world auto-saving
+[01:52:18] [Server thread/INFO]: [Server] [Backup] Done...
+[01:53:32] [Server thread/INFO]: [Server] [Backup] Server goes readonly in 10 seconds
+[01:53:42] [Server thread/INFO]: Turned off world auto-saving
+[01:53:42] [Server thread/INFO]: Saving...
+[01:53:42] [Server thread/INFO]: Saved the world
+[01:53:43] [Server thread/INFO]: Turned on world auto-saving
