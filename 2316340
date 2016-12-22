@@ -1,0 +1,710 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en-us" class="no-js">
+<!--<![endif]-->
+<head>
+    <!-- TODO: Optimize when to include tinymce -->
+    <script type="text/javascript" src="https://static-mods-curse.cursecdn.com/1-0-6151-21048/js/tinymce/tiny_mce/tinymce.min.js"></script>
+    <script type="text/javascript">
+        var cgeo = "US";
+        var aconf = {"r_us_floor":0.0,"r_row_floor":0.0,"p_us_floor":0.0,"p_row_floor":0.0,"ca_us_floor":0.0,"ca_row_floor":0.0,"ox_us_floor":2.4,"ox_row_floor":1.5,"am_us_floor":0.0,"am_row_floor":0.0,"mob_floor":0.0};
+    </script>
+    <meta charset="UTF-8">
+    <title>KoreanPatch - Korean_Patch - Miscellaneous - Minecraft Mods - Curse </title>
+    <meta name="description" content="" />
+    <meta name="theme-color" content="#121212" />
+
+    <!-- Responsive Meta Tag -->
+    
+        <link rel="shortcut icon" href="https://media-curse.cursecdn.com/avatars/thumbnails/156/987/16/16/635931422428395838.png" />
+        
+
+    <!-- Links -->
+    
+    
+
+    <!-- Meta Properties -->
+    
+    
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" type="text/css" href="https://static-mods-curse.cursecdn.com/1-0-6151-21048/Skins/Blocks/css/compiled.css"/>
+<link rel="stylesheet" type="text/css" href="https://static-mods-curse.cursecdn.com/1-0-6151-21048/Skins/Radon/css/compiled.css"/>
+<style type="text/css">body:not(.hide-ads) .home-banner {
+    height: 170px;
+}
+
+section.ad-container.ad-container-footer {
+    background: none;
+}
+
+#home-game-listing ul.game-listing>li:last-child {
+    //margin-bottom: 0;
+}
+
+
+.quarterly-plan, .monthly-plan {display:none;}
+
+.article-content ul {
+    list-style-type: disc;
+    padding-left: 16px;
+    margin-left: 20px;
+    margin-bottom: 22px;
+}
+
+.user-role-content-manager {
+    color: #379FE5 !important;
+}</style>
+
+    
+    
+    <script type="text/javascript">
+      var onloadCallback = function () {
+                Cobalt.runOnHtmlInsert(Cobalt.Forms.handlegReCaptchaRender);
+          };
+    </script>
+
+    <script src='https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit' async defer></script>
+   <script src="https://apis.google.com/js/platform.js"></script>
+
+    <!-- JavaScript -->
+    <script type="text/javascript" src="https://static-mods-curse.cursecdn.com/1-0-6151-21048/js/core.js"></script>
+    
+    
+
+
+ 
+ <script>
+var script = document.createElement('script');
+var tstamp = new Date();
+script.id = 'factorem';
+script.src = '//cdm.cursecdn.com/js/curse/cdmfactorem_min.js?misc=' + tstamp.getTime();
+script.async = false;
+script.type='text/javascript';
+document.head.appendChild(script);
+</script> 
+
+<style>
+.footer-ad {display: block !important;}
+</style>
+     
+</head>
+<body class="grid-a  site-mods.curse site-mods body-projectfile body-projectfile-details show-ads user-anonymous lang-en site-lang-en template-none skin-light-on-dark game-minecraft user-anon  non-premium-user  responsive-disabled" data-user-lang="1">    
+    <!-- No Script -->
+    <noscript class="b-noscript">
+        <p><i class="b-noscript-icon"></i> This site works best with JavaScript enabled. Please enable JavaScript to get the best experience from this site.</p>
+    </noscript>
+    <!-- Layout Start -->
+    
+    
+    <div id="site" class="fixed single-column">
+        <div id="site-main">
+            <!-- Above Header, ex: Netbar -->
+            
+
+<div class="netbar">
+    <span class="netbar-logo netbar-left"><a href="//www.curse.com/">Curse</a></span>
+    
+        <a class="netbar-left netbar-help" href="//support.curse.com/">Help</a>
+        <a href="/register" id="register-link" class="netbar-signin netbar-right">Register</a>
+        <a href="/login" id="login-link" class="netbar-signin netbar-right">Sign In</a>
+    
+</div>
+
+            <!-- Header, ex: Logo, search, etc. -->
+            <header class="main" role="banner">
+                
+<div class="page-region p-header p-header-a">
+<h1><a href="https://www.curse.com/">Curse.com</a></h1>
+<nav class="main p-nav p-nav-a j-sticky" role="navigation">
+    <ul class="b-list b-list-a">
+        
+
+    <li id="nav-mods" class=" selected b-list-item p-nav-item">
+            
+            <a href="/"  class=""><span class="b-list-label">MODS
+     </span></a>
+            
+    </li>
+
+
+    <li id="nav-client" class=" b-list-item p-nav-item">
+            
+            <a href="/client"  class=""><span class="b-list-label">CLIENT
+     </span></a>
+            
+    </li>
+
+
+    <li id="nav-premium" class=" b-list-item p-nav-item">
+            
+            <a href="/premium"  class=""><span class="b-list-label">PREMIUM
+     </span></a>
+            
+    </li>
+
+
+    <li id="nav-giveaways" class="callout-target b-list-item p-nav-item">
+            
+            <a href="/giveaways"  class=""><span class="b-list-label">GIVEAWAYS
+     </span></a>
+            
+    </li>
+
+
+    <li id="nav-news" class=" b-list-item p-nav-item">
+            
+            <a href="/news"  class=""><span class="b-list-label">NEWS
+     </span></a>
+            
+    </li>
+
+    </ul>
+    <a id="responsive-topnav-button" class="rs-link rs-link-to-desktop">Desktop View</a>
+    
+</nav><div class="primary-search"><form action="/search" method="get" id="global-search-form">
+                    <input type="text" name="search" placeholder="Search" data-autocomplete-url="/projects/find" autocomplete="off" class="ac_input">
+                    <input type="submit" name="submit-search">
+                </form></div>
+</div>
+
+            </header>
+            <!-- Below Header (Ad container), ex: Leaderboard and Badge unit -->
+            <section class="ad-container">
+                <div class="ad-bin">
+                    
+                </div>
+            </section>
+            <!-- Above Content, Ex: Breadcrumbs -->
+            <section class="atf" role="complementary">
+        <div class="ad-placement ad-badge ad-atf-badge ad-atf ad-badge ad-placement">
+            <div id='cdm-zone-0b'></div>
+        </div>
+
+    
+        <div class="ad-placement ad-leaderboard atf-ad-leaderboard">
+            <div id='cdm-zone-01'></div>
+
+        </div>
+
+    
+    <!-- BREADCRUMBS -->
+    <nav class="b-breadcrumb b-breadcrumb-a">
+
+        <!-- WRAPPER -->
+        <ul class="b-breadcrumb-wrapper">
+
+            
+                <!-- ITEM -->
+                <li class="b-breadcrumb-item" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                
+                        <a href="/" rel="up" itemprop="url"><span itemprop="title">Home</span></a>
+                
+                </li>
+            
+                <!-- ITEM -->
+                <li class="b-breadcrumb-item" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                
+                        <a href="/mc-mods/minecraft" rel="up" itemprop="url"><span itemprop="title">Minecraft Mods</span></a>
+                
+                </li>
+            
+                <!-- ITEM -->
+                <li class="b-breadcrumb-item" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                
+                        <a href="/mc-mods/minecraft/category/mc-miscellaneous" rel="up" itemprop="url"><span itemprop="title">Miscellaneous</span></a>
+                
+                </li>
+            
+                <!-- ITEM -->
+                <li class="b-breadcrumb-item" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                
+                        <a href="/mc-mods/minecraft/238638-korean_patch" rel="up" itemprop="url"><span itemprop="title">Korean_Patch</span></a>
+                
+                </li>
+            
+                <!-- ITEM -->
+                <li class="b-breadcrumb-item" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                
+                        <span itemprop="title">KoreanPatch</span>
+                
+                </li>
+            
+
+        </ul>
+    </nav>
+</section>
+            <div class="container">
+                <div id="content" class="main content-container">
+                    <section class="primary-content" role="main">
+                        
+    
+
+     <form id="download-form" method="post" action="/project-file/2316340/get-token">
+        <input id="field-security-token" name="security-token" type="hidden" value="20f12b14696d0a30ac464e84e9171ea0" /><input id="field-authenticity-token" name="f8d5ad1dfb5b9f0a781cda72603a179af" type="hidden" value="" />
+    </form>    
+
+    <!-- File Download -->
+    <div id="file-download">
+        
+
+<!-- Outside Caption -->
+
+<header class="h2  no-sub no-nav">
+    
+    <!-- Navigation -->
+    
+    
+    <!-- Main Title -->
+    
+    <H2 >Korean_Patch</H2>  
+    
+           
+    <!-- Sub title -->
+    
+    
+</header>
+          
+<!-- Inside Caption -->
+
+            <div class="countdown">
+                <h3>Your Download will begin in <span>3</span> Seconds...</h3>
+                <p>If your download doesn't begin <a data-project="238638" data-file="2316340" data-href="http://addons.curse.cursecdn.com/files/2316/340/installer_b80_19.jar" class="download-link" href="#">click here</a>.</p>
+            </div>
+            <div class="go-back">
+                <p>Keep browsing for addons</p>
+                <em class="cta-button"><a href="/bukkit-plugins/minecraft">Take me back</a></em>
+            </div>
+            <div class="premium-callout">
+                <h3>Don't like waiting for your downloads?</h3>
+                <p>Eliminate this page and obtain a handful of other perks with <a href="/premium">Curse Premium</a></p>
+                <a href="/premium"><img src="https://static-mods-curse.cursecdn.com/1-0-6151-21048/Skins/Radon/images/curse-premium-homepage.jpg" /></a>
+            </div>
+            <div class="curse-client">
+                <h3>Manage, install and updating your addons/mods with the Curse Client!</h3>
+                <p>It's free, lightweight, and easy to use!</p>
+                <div class="client-callout">
+                    <a href="//www.curse.com/client">
+                        <h4>Curse Client v5</h4>
+                        <h5>Addon Management Simplified</h5>
+                    </a>
+                    <a href="http://clientupdate-v5.curse.com/setup.exe">Download for PC</a>
+                </div>
+            </div>
+        
+    </div>
+    <div id="other-downloads">
+        <!-- Others who downloaded this also tried... -->
+        <div class="similiar-user-dl">
+            
+
+<!-- Outside Caption -->
+
+<header class="h2  no-sub no-nav">
+    
+    <!-- Navigation -->
+    
+    
+    <!-- Main Title -->
+    
+    <H2 >Others who downloaded this also tried...</H2>  
+    
+           
+    <!-- Sub title -->
+    
+    
+</header>
+          
+<!-- Inside Caption -->
+<div class="listing-container listing-container-ul"><div class="listing-body">
+<ul class="listing listing-client-side listing-project project-listing"  data-ajax-set-window-state="true"  data-page-size="10"  data-row-selector="&gt;li">
+     
+<li>
+    <a href="/bukkit-plugins/minecraft/pailplus" class="content-image"><img src="https://media-curse.cursecdn.com/attachments/thumbnails/218/769/100/70/9e31329b326974283f40661e31bb7ea4.png" alt="" /></a>
+    <h4><a href="/bukkit-plugins/minecraft/pailplus">PailPlus</a></h4>
+    <span><a href="/bukkit-plugins/minecraft/category/admin-tools">Admin Tools</a></span>
+</li>
+<li>
+    <a href="/bukkit-plugins/minecraft/pail" class="content-image"><img src="https://media-curse.cursecdn.com/attachments/thumbnails/215/910/100/70/26b750d17b032bdfb8c76ac567deb83f.png" alt="" /></a>
+    <h4><a href="/bukkit-plugins/minecraft/pail">Pail</a></h4>
+    <span><a href="/bukkit-plugins/minecraft/category/admin-tools">Admin Tools</a></span>
+</li>
+<li>
+    <a href="/bukkit-plugins/minecraft/adminmechinfoconsole-v1-1-get-mo" class="content-image"><img src="https://media-curse.cursecdn.com/avatars/thumbnails/0/336/100/70/634524036274657236.png" alt="" /></a>
+    <h4><a href="/bukkit-plugins/minecraft/adminmechinfoconsole-v1-1-get-mo">Console+</a></h4>
+    <span><a href="/bukkit-plugins/minecraft/category/admin-tools">Admin Tools</a></span>
+</li>
+<li>
+    <a href="/bukkit-plugins/minecraft/minecartremover" class="content-image"><img src="https://media-curse.cursecdn.com/attachments/thumbnails/89/153/100/70/67fa447626d49367239e37d028f7bbb9.png" alt="" /></a>
+    <h4><a href="/bukkit-plugins/minecraft/minecartremover">BoatRemover</a></h4>
+    <span><a href="/bukkit-plugins/minecraft/category/admin-tools">Admin Tools</a></span>
+</li>
+<li>
+    <a href="/bukkit-plugins/minecraft/remoteadmin" class="content-image"><img src="https://media-curse.cursecdn.com/avatars/thumbnails/0/336/100/70/634524036274657236.png" alt="" /></a>
+    <h4><a href="/bukkit-plugins/minecraft/remoteadmin">RemoteAdmin</a></h4>
+    <span><a href="/bukkit-plugins/minecraft/category/admin-tools">Admin Tools</a></span>
+</li>
+<li>
+    <a href="/bukkit-plugins/minecraft/firstlogin" class="content-image"><img src="https://media-curse.cursecdn.com/avatars/thumbnails/0/336/100/70/634524036274657236.png" alt="" /></a>
+    <h4><a href="/bukkit-plugins/minecraft/firstlogin">FirstLogin</a></h4>
+    <span><a href="/bukkit-plugins/minecraft/category/admin-tools">Admin Tools</a></span>
+</li>
+<li>
+    <a href="/bukkit-plugins/minecraft/messagechangerlite" class="content-image"><img src="https://media-curse.cursecdn.com/avatars/thumbnails/0/336/100/70/634524036274657236.png" alt="" /></a>
+    <h4><a href="/bukkit-plugins/minecraft/messagechangerlite">MessageChangerLite</a></h4>
+    <span><a href="/bukkit-plugins/minecraft/category/admin-tools">Admin Tools</a></span>
+</li>
+<li>
+    <a href="/bukkit-plugins/minecraft/activitypromotion" class="content-image"><img src="https://media-curse.cursecdn.com/avatars/thumbnails/0/336/100/70/634524036274657236.png" alt="" /></a>
+    <h4><a href="/bukkit-plugins/minecraft/activitypromotion">ActivityPromotion</a></h4>
+    <span><a href="/bukkit-plugins/minecraft/category/admin-tools">Admin Tools</a></span>
+</li>
+<li>
+    <a href="/bukkit-plugins/minecraft/ask" class="content-image"><img src="https://media-curse.cursecdn.com/attachments/thumbnails/216/180/100/70/5570bfbc723a5568429f2968eb77ae08.png" alt="" /></a>
+    <h4><a href="/bukkit-plugins/minecraft/ask">Ask</a></h4>
+    <span><a href="/bukkit-plugins/minecraft/category/admin-tools">Admin Tools</a></span>
+</li>
+<li>
+    <a href="/bukkit-plugins/minecraft/craftpanel" class="content-image"><img src="https://media-curse.cursecdn.com/attachments/thumbnails/56/606/100/70/c95d0f14d0657f9647a20003a74e53b5.png" alt="" /></a>
+    <h4><a href="/bukkit-plugins/minecraft/craftpanel">Craftpanel</a></h4>
+    <span><a href="/bukkit-plugins/minecraft/category/admin-tools">Admin Tools</a></span>
+</li>
+</ul>
+</div></div>
+        </div>
+    </div>
+    <div id="ad-download">
+        <div class="atf-ad-medRect">
+            <div id='cdm-zone-02'></div>
+            
+        </div>
+    </div>
+
+
+                        
+                    </section>
+                </div>
+            </div>
+            
+            <!-- Above Footer -->
+            <section class="ad-container ad-container-footer">
+                <div class="ad-bin">
+                    
+        <div class="ad-placement ad-leaderboard-footer ">
+            <div id='cdm-zone-04'></div>
+        </div>
+
+    
+                </div>
+            </section>
+            <div id="footer-push"></div>
+        </div>
+        <footer id="footer">
+            
+
+<div class="footer-links">
+    
+        <a href=//www.curse.com" target="_blank" class="curse">Curse</a>
+        <ul class="social">
+            <li><a href="//www.facebook.com/CurseNetwork" target="_blank" class="fb">Facebook</a></li>
+            <li><a href="//www.twitter.com/cursenetwork" target="_blank" class="tw">Twitter</a></li>
+            <li><a href="//www.youtube.com/curseentertainment" target="_blank" class="yt">Youtube</a></li>
+            <li><a href="//www.curse.com/newsletter" target="_blank" class="nl">Newsletter</a></li>
+        </ul>
+        <ul class="you">
+            
+                <li><a href="/login" id="login-link" class="sign-in">Sign In</a></li>
+                
+                    <li><a href="/register" class="register" id="register-link">Register</a></li>
+                
+            <li><a href="//www.curseinc.com/careers" target="_blank" class="careers">Careers</a></li>
+            <li><a href="//support.curse.com" target="_blank" class="help">Help</a></li>
+        </ul>
+        <ul class="more">
+            <li><a href="//www.curseinc.com/company" target="_blank" class="about">About Curse</a></li>
+            <li><a href="//www.curseinc.com/audience" target="_blank" class="advertise">Advertise</a></li>
+            <li><a href="//www.curse.com/terms" target="_blank" class="tos">Terms of Service</a></li>
+            <li><a href="//www.curse.com/privacy" target="_blank" class="privacy-policy">Privacy Policy</a></li>
+        </ul>
+        <span class="copyright">Copyright 2005-2016, Curse Inc.</span>
+    
+</div>
+<a id="responsive-footer-button" class="rs-link rs-link-to-responsive">Mobile View</a>
+        <div class="ad-placement ad-main-med-rect-footer ">
+            <div id='cdm-zone-03'></div>
+        </div>
+
+    
+        </footer>
+        
+        <div class="ad-placement ad-skindiv ">
+            
+<div id='cdm-zone-skin'></div>
+        </div>
+
+    
+        <div class="ad-placement ad-enddiv ">
+            <div id='cdm-zone-end'></div>
+        </div>
+
+    
+    </div>
+
+    <!-- Layout End -->
+    <div id="analytics">
+                        <!-- Google Analytics Tag -->
+
+                <script type="text/javascript">
+
+                    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+                    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+                </script>
+
+                <script type="text/javascript">
+
+                    try {
+
+                        var pageTracker = _gat._getTracker("UA-1045810-1");
+
+                        pageTracker._trackPageview();
+
+                    } catch (err) { }
+
+                    try {
+
+                        var pageTracker = _gat._getTracker("UA-1045810-22");
+
+                        pageTracker._trackPageview();
+
+                    } catch (err) { }
+
+                </script>                
+
+                <!-- End Another Analytics Tag -->
+
+                
+
+                <!-- Begin comScore Tag -->
+
+                <script>
+
+                    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+
+                </script>
+
+
+
+                <script>
+
+                  COMSCORE.beacon({
+
+                    c1:2,
+
+                    c2:6035118,
+
+                    c3:"",
+
+                    c4:"",
+
+                    c5:"",
+
+                    c6:"",
+
+                    c15:""
+
+                  });
+
+                </script>
+
+                <noscript>
+
+                  <img src="https://b.scorecardresearch.com/b?c1=2&c2=6035118&c3=&c4=&c5=&c6=&c15=&cv=1.3&cj=1" style="display:none" width="0" height="0" alt="" />
+
+                </noscript>
+
+                <!-- End comScore Tag -->
+
+                
+
+                <!-- START Nielsen Online SiteCensus V6.0 -->
+
+                <!-- COPYRIGHT 2010 Nielsen Online -->
+
+                <script type="text/javascript">
+
+                  (function () {
+
+                    var d = new Image(1, 1);
+
+                    d.onerror = d.onload = function () {
+
+                      d.onerror = d.onload = null;
+
+                    };
+
+                    d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-603339h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+
+                  })();
+
+                </script>
+
+                <noscript>
+
+                  <div>
+
+                    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-603339h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+
+                    width="1" height="1" alt="" />
+
+                  </div>
+
+                </noscript>
+
+                <!-- END Nielsen Online SiteCensus V6.0 -->
+
+                
+
+                <!-- Google Wowstead Promotion Targeting -->
+
+                <script type="text/javascript">
+
+                /* <![CDATA[ */
+
+                var google_conversion_id = 989002608;
+
+                var google_conversion_language = "en";
+
+                var google_conversion_format = "3";
+
+                var google_conversion_color = "666666";
+
+                var google_conversion_label = "h2JXCJjZiAIQ8PbL1wM";
+
+                var google_conversion_value = 0;
+
+                /* ]]> */
+
+                </script>
+
+                <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+
+                </script>
+
+                <noscript>
+
+                <div style="display:inline;">
+
+                <img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/989002608/?label=h2JXCJjZiAIQ8PbL1wM&amp;guid=ON&amp;script=0"/>
+
+                </div>
+
+                </noscript>
+
+                <!-- End Google Wowstead Promotion Targeting -->
+
+
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Droid+Sans:400,700:latin', 'Fjalla+One::latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+
+<!-- Lotame -->
+<script src="https://tags.crwdcntrl.net/c/3613/cc.js?ns=_cc3613" id="LOTCC_3613"></script>
+<script>
+_cc3613.bcp();
+</script>
+<img src="https://bcp.crwdcntrl.net/5/c=3613" width="1" height="1"/>
+<!-- End Lotame -->
+    </div>
+	    
+    <script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName('script')[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/8371.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+    
+
+<script type="text/javascript">
+    Device.initialize();
+    Cobalt.Burger.initializeEarly();
+
+    Cobalt.Constants.initialize({"StaticURL":"https://static-mods-curse.cursecdn.com/1-0-6151-21048","SkinPath":"https://static-mods-curse.cursecdn.com/1-0-6151-21048/Skins/Radon","MediaURL":"https://media-curse.cursecdn.com","AvatarURL":"https://media-curse.cursecdn.com/avatars","AttachmentURL":"https://media-curse.cursecdn.com/attachments","ActiveConfiguration":"production","PrivacyPolicyLastUpdated":"635907456000000000"});
+    
+    Cobalt.Constants.BuildVersion = "1-0-6151-21048";
+    Cobalt.Constants.IgnoredUserIDs = [];
+    Cobalt.Constants.ServerTimestamp = 1482322427908.81
+        Cobalt.Constants.FacebookAppID = "";
+    Cobalt.Constants.QuoteCssClasses = "";
+    Cobalt.User.EnabledLanguageIDs = [1];
+    Cobalt.User.MaxQuoteDepth = 5; 
+    Cobalt.TinyMCE.extraPlugins = "";
+    Cobalt.TinyMCE.extraButtons = "";
+    Cobalt.TinyMCE.extraCustomPlugins = "";     
+
+    // NOTE: if you need to debug into tinymce, then change the following line to tinymce.js
+    Cobalt.TinyMCE.url = Cobalt.Constants.StaticURL + "/js/tinymce/tiny_mce/tinymce.min.js";
+    Cobalt.TinyMCE.customPluginUrl = Cobalt.Constants.StaticURL + "/js/tinymce/custom_plugins";
+    Cobalt.TinyMCE.skin_url = Cobalt.Constants.StaticURL + "/js/tinymce/custom_skin";
+    
+   
+    
+    Cobalt.Constants.SiteID = 14;
+    Cobalt.TinyMCE.fontColorEnabled = true;
+    Cobalt.TinyMCE.fontSizeEnabled = true;
+    Cobalt.TinyMCE.fontFamilyEnabled = true;
+    Cobalt.TinyMCE.textAlignmentEnabled = true;
+    Cobalt.TinyMCE.smiliesEnabled = false;
+    Cobalt.TinyMCE.forceSimpleBBCodeEditor = false;  
+    Cobalt.Constants.NestedQuotePreference  = 1;
+    
+    $.ajaxSetup({
+        data: {},
+        timeout: 30000
+    });
+    
+    
+
+    //bbcode entries
+    
+    Cobalt.Markup.customBBcodeButtons = [];
+
+    //censorship entries
+    
+    Cobalt.UI.CensoredWords = [];
+    
+    
+    
+    Cobalt.CMS.CobaltCss = ["https://static-mods-curse.cursecdn.com/1-0-6151-21048/Skins/Global-TinyMCE/css/compiled.css"];    
+    Cobalt.CMS.ProjectCss = ["https://static-mods-curse.cursecdn.com/1-0-6151-21048/Skins/Radon/css/compiled.css"];    
+
+</script>
+
+
+
+<script>Radon.Search.initialize();</script>
+<script type="text/javascript">
+
+    Cobalt.runOnLoad(function () {
+        Cobalt.initialize([{dependency:Radon.Addons, priority:99, name:'Radon.Addons'},{dependency:Cobalt.Listing, priority:99, name:'Cobalt.Listing'},{dependency:Cobalt.Tabs, priority:99, name:'Cobalt.Tabs'},{dependency:Cobalt.NiceDates, priority:99, name:'Cobalt.NiceDates'},{dependency:Cobalt.Core, priority:99, name:'Cobalt.Core'},{dependency:Cobalt.Forms, priority:99, name:'Cobalt.Forms'},{dependency:Cobalt.Forum, priority:99, name:'Cobalt.Forum'},{dependency:Cobalt.UI, priority:99, name:'Cobalt.UI'},{dependency:Cobalt.Auth, priority:99, name:'Cobalt.Auth'},{dependency:Cobalt.Notifications, priority:99, name:'Cobalt.Notifications'},{dependency:Cobalt.Feedback, priority:99, name:'Cobalt.Feedback'},{dependency:Cobalt.WarningNotification, priority:99, name:'Cobalt.WarningNotification'},{dependency:Cobalt.TinyMCE, priority:99, name:'Cobalt.TinyMCE'},{dependency:Cobalt.Footer, priority:99, name:'Cobalt.Footer'},{dependency:Cobalt.Tidbit, priority:99, name:'Cobalt.Tidbit'}]);
+    });
+
+</script>
+</body>
+</html>
