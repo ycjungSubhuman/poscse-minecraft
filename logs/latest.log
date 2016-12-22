@@ -30,3 +30,18 @@
 [01:59:07] [Server thread/INFO]: [Server] [Backup] Done...
 [01:59:14] [Server thread/INFO]: [Server] [Backup] Server temporarily stops for backup in 60 seconds
 [01:59:24] [Server thread/INFO]: Turned off world auto-saving
+[01:59:25] [Server thread/INFO]: Turned on world auto-saving
+[01:59:25] [Server thread/INFO]: [Server] [Backup] Done...
+[02:01:07] [Server thread/INFO]: J_J_Doubletime was slain by Zombie
+[02:05:26] [Server thread/INFO]: [Server] [Backup] Server goes volatile for backup in 10 seconds
+[02:05:36] [Server thread/INFO]: [Server] [Backup] World is now volatile. Things may not be auto-saved for a short moment.
+[02:05:36] [Server thread/INFO]: Turned off world auto-saving
+[02:05:36] [Server thread/INFO]: Saving...
+[02:05:37] [Server thread/INFO]: Saved the world
+[02:05:37] [Server thread/INFO]: [Server] [Backup] World is auto-saved.
+[02:05:37] [Server thread/INFO]: [Server] [Backup] Done...
+[02:05:53] [Server thread/WARN]: J_J_Doubletime moved too quickly! -10.91759057468596,1.0,-1.9348345199585424
+[02:06:16] [Server thread/INFO]: J_J_Doubletime was slain by Zombie
+[02:07:10] [Server thread/INFO]: [Server] [Backup] Server goes volatile for backup in 10 seconds
+[02:07:20] [Server thread/INFO]: [Server] [Backup] World is now volatile. Things may not be auto-saved for a short moment.
+[02:07:20] [Server thread/INFO]: Saving is already turned off
