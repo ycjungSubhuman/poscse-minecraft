@@ -45,3 +45,9 @@
 [02:07:10] [Server thread/INFO]: [Server] [Backup] Server goes volatile for backup in 10 seconds
 [02:07:20] [Server thread/INFO]: [Server] [Backup] World is now volatile. Things may not be auto-saved for a short moment.
 [02:07:20] [Server thread/INFO]: Saving is already turned off
+[02:07:26] [Server thread/INFO]: [Server] [Backup] World is auto-saved.
+[02:07:26] [Server thread/INFO]: Turned on world auto-saving
+[02:07:26] [Server thread/INFO]: [Server] [Backup] Done...
+[02:07:36] [Server thread/INFO]: [Server] [Backup] Server goes volatile for backup in 10 seconds
+[02:07:46] [Server thread/INFO]: [Server] [Backup] World is now volatile. Things may not be auto-saved for a short moment.
+[02:07:46] [Server thread/INFO]: Turned off world auto-saving
