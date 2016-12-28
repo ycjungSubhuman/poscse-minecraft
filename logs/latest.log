@@ -1,269 +1,100 @@
-[03:31:32] [User Authenticator #52/INFO]: UUID of player PohangGaeguri is 10cae923-68cc-4db8-818a-f6be3174ecb2
-[03:31:32] [Server thread/INFO]: PohangGaeguri[/119.202.80.226:4523] logged in with entity id 3090109 at (-335.7879422154773, 77.0, 305.7129858056541)
-[03:31:32] [Server thread/INFO]: PohangGaeguri joined the game
-[03:41:14] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
-[03:44:28] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
-[03:45:29] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 2ade48d9-1ae0-435a-82ba-30d4a6a8222e
-[03:48:44] [User Authenticator #53/INFO]: UUID of player IH2 is 057cf2da-6508-46c0-951e-da0e3d23d215
-[03:48:44] [Server thread/INFO]: IH2[/119.202.80.193:58309] logged in with entity id 3117409 at (-409.22102521872336, 78.0625, 330.63644718164795)
-[03:48:44] [Server thread/INFO]: IH2 joined the game
-[03:48:44] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 2ade48d9-1ae0-435a-82ba-30d4a6a8222e
-[03:48:44] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
-[03:51:03] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6e5e817d-9747-4efa-bf4d-5df826218cf6
-[03:51:19] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID ff62da64-a96b-46b4-a54f-273772f1652a
-[03:59:30] [Server thread/INFO]: IH2 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[03:59:30] [Server thread/INFO]: IH2 left the game
-[04:06:16] [Server thread/INFO]: PohangGaeguri lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[04:06:16] [Server thread/INFO]: PohangGaeguri left the game
-[04:07:43] [User Authenticator #54/INFO]: UUID of player J_J_Doubletime is 335c2fe4-8836-42ce-b95b-9a5d4b1c36ca
-[04:07:43] [Server thread/INFO]: J_J_Doubletime[/1.224.36.250:62473] logged in with entity id 3154497 at (-300.4596258880803, 79.0, 270.2036755737372)
-[04:07:43] [Server thread/INFO]: J_J_Doubletime joined the game
-[04:08:37] [Server thread/INFO]: J_J_Doubletime lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[04:08:37] [Server thread/INFO]: J_J_Doubletime left the game
-[04:19:30] [User Authenticator #55/INFO]: UUID of player J_J_Doubletime is 335c2fe4-8836-42ce-b95b-9a5d4b1c36ca
-[04:19:30] [Server thread/INFO]: J_J_Doubletime[/223.38.8.138:62756] logged in with entity id 3156280 at (-295.9649749628615, 78.0, 270.03005664471624)
-[04:19:30] [Server thread/INFO]: J_J_Doubletime joined the game
-[04:20:10] [Server thread/INFO]: J_J_Doubletime lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[04:20:10] [Server thread/INFO]: J_J_Doubletime left the game
-[06:40:35] [User Authenticator #56/INFO]: UUID of player J_J_Doubletime is 335c2fe4-8836-42ce-b95b-9a5d4b1c36ca
-[06:40:35] [Server thread/INFO]: J_J_Doubletime[/61.105.204.231:64410] logged in with entity id 3156854 at (-310.31958877861797, 75.0, 269.90449202762534)
-[06:40:35] [Server thread/INFO]: J_J_Doubletime joined the game
-[06:46:09] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
-[06:55:11] [User Authenticator #57/INFO]: UUID of player IH2 is 057cf2da-6508-46c0-951e-da0e3d23d215
-[06:55:11] [Server thread/INFO]: IH2[/119.202.80.193:51644] logged in with entity id 3187336 at (-345.05804409785327, 72.0, 295.88777315713037)
-[06:55:11] [Server thread/INFO]: IH2 joined the game
-[06:55:11] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 2ade48d9-1ae0-435a-82ba-30d4a6a8222e
-[06:55:15] [Server thread/INFO]: <J_J_Doubletime> ㅎㅇ
-[06:55:18] [Server thread/INFO]: <IH2> gd
-[06:56:33] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6e5e817d-9747-4efa-bf4d-5df826218cf6
-[07:02:57] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6e5e817d-9747-4efa-bf4d-5df826218cf6
-[07:04:12] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID ff62da64-a96b-46b4-a54f-273772f1652a
-[08:05:45] [Server thread/INFO]: <IH2> 유철아
-[08:05:49] [Server thread/INFO]: <IH2> 다이아몬드 한개만 빌려줄 수 있니
-[08:05:53] [Server thread/INFO]: <J_J_Doubletime> 은
-[08:05:54] [Server thread/INFO]: <J_J_Doubletime> 응
-[08:05:58] [Server thread/INFO]: <IH2> thx
-[08:05:58] [Server thread/INFO]: <J_J_Doubletime> 내 집에 오면 2층에
-[08:06:01] [Server thread/INFO]: <J_J_Doubletime> 상자 있음
-[08:06:06] [Server thread/INFO]: <IH2> 다이아몬드 도끼를 만들거야
-[08:06:20] [Server thread/INFO]: <J_J_Doubletime> 내 꺼 광물하고 돌 같은 거
-[08:06:23] [Server thread/INFO]: <J_J_Doubletime> 막 가져가도 됨
-[08:06:29] [Server thread/INFO]: <IH2> oh....
-[08:06:32] [Server thread/INFO]: <IH2> zirim
-[08:06:34] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
-[08:07:27] [Server thread/INFO]: <IH2> 부자넹
-[08:07:46] [Server thread/INFO]: <J_J_Doubletime> 꾸미기 안하고
-[08:07:51] [Server thread/INFO]: <J_J_Doubletime> 모험만 다님 ㅋㅋ
-[08:07:54] [Server thread/INFO]: <IH2> zzzz
-[08:07:58] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
-[08:09:39] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
-[08:12:06] [Server thread/INFO]: <J_J_Doubletime> ㅂㅂ
-[08:12:11] [Server thread/INFO]: J_J_Doubletime lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[08:12:11] [Server thread/INFO]: J_J_Doubletime left the game
-[08:12:11] [Server thread/INFO]: <IH2> qq
-[08:12:37] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
-[08:24:28] [Server thread/INFO]: IH2 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[08:24:28] [Server thread/INFO]: IH2 left the game
-[08:49:59] [User Authenticator #58/INFO]: UUID of player slothetic is d6972c0e-3e64-4636-86f6-c903718234dc
-[08:49:59] [Server thread/INFO]: slothetic[/141.223.176.77:58253] logged in with entity id 3383916 at (-309.10718013922576, 49.0, 147.1717072213436)
-[08:49:59] [Server thread/INFO]: slothetic joined the game
-[08:51:17] [Server thread/INFO]: slothetic lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[08:51:17] [Server thread/INFO]: slothetic left the game
-[09:18:00] [User Authenticator #59/INFO]: UUID of player IH2 is 057cf2da-6508-46c0-951e-da0e3d23d215
-[09:18:00] [Server thread/INFO]: IH2[/119.202.80.193:53416] logged in with entity id 3387174 at (-406.75791355809736, 75.5, 307.69999998807907)
-[09:18:00] [Server thread/INFO]: IH2 joined the game
-[09:18:00] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
-[09:18:00] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 2ade48d9-1ae0-435a-82ba-30d4a6a8222e
-[09:37:45] [User Authenticator #60/INFO]: UUID of player MadGay is 376185f2-fe72-4871-98af-cf6900b720ba
-[09:37:45] [Server thread/INFO]: MadGay[/119.202.80.25:13382] logged in with entity id 3440945 at (-358.448687301045, 71.0, 240.02069748530795)
-[09:37:45] [Server thread/INFO]: MadGay joined the game
-[09:37:48] [Server thread/INFO]: <IH2> gd
-[09:37:56] [Server thread/INFO]: <MadGay> gd
-[09:41:29] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6e5e817d-9747-4efa-bf4d-5df826218cf6
-[09:44:30] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6e5e817d-9747-4efa-bf4d-5df826218cf6
-[09:45:45] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6e5e817d-9747-4efa-bf4d-5df826218cf6
-[09:46:24] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID ff62da64-a96b-46b4-a54f-273772f1652a
-[09:48:41] [User Authenticator #61/INFO]: UUID of player J_J_Doubletime is 335c2fe4-8836-42ce-b95b-9a5d4b1c36ca
-[09:48:41] [Server thread/INFO]: J_J_Doubletime[/61.105.204.231:49833] logged in with entity id 3471577 at (-300.26020053138876, 76.0, 270.69999998807907)
-[09:48:41] [Server thread/INFO]: J_J_Doubletime joined the game
-[09:48:47] [Server thread/INFO]: <J_J_Doubletime> hihi
-[09:48:51] [Server thread/INFO]: <IH2> hi
-[09:48:51] [Server thread/INFO]: <MadGay> gd
-[09:55:17] [User Authenticator #62/INFO]: UUID of player PohangGaeguri is 10cae923-68cc-4db8-818a-f6be3174ecb2
-[09:55:17] [Server thread/INFO]: PohangGaeguri[/141.223.176.77:51078] logged in with entity id 3484814 at (-317.87672669970596, 72.0, 300.88051586391936)
-[09:55:17] [Server thread/INFO]: PohangGaeguri joined the game
-[09:55:20] [Server thread/INFO]: <J_J_Doubletime> hi
-[09:55:25] [Server thread/INFO]: <J_J_Doubletime> 나 마이크 끔
-[09:56:50] [Server thread/INFO]: <IH2> 스카이프있나
-[09:56:56] [Server thread/INFO]: <J_J_Doubletime> ㅇㅇ
-[09:57:01] [Server thread/INFO]: <IH2> dlf0325@naver.com
-[09:57:03] [Server thread/INFO]: <IH2> 초대좀
-[09:57:24] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6e5e817d-9747-4efa-bf4d-5df826218cf6
-[09:58:57] [Server thread/INFO]: <PohangGaeguri> 호ㅓㅏㅇ일환 스카이프 킴?
-[09:59:02] [Server thread/INFO]: <IH2> dd
-[10:00:01] [Server thread/INFO]: <PohangGaeguri> 어려운걸 ㅋ
-[10:00:10] [Server thread/INFO]: <IH2> z?
-[10:00:18] [Server thread/INFO]: <PohangGaeguri> ㅎㅇ
-[10:00:25] [Server thread/INFO]: <J_J_Doubletime> 친구 추가 ㄱㄱ
-[10:00:26] [Server thread/INFO]: <IH2> 3519 유철이냐
-[10:00:30] [Server thread/INFO]: <J_J_Doubletime> ㅇㅇ
-[10:01:29] [Server thread/INFO]: J_J_Doubletime lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[10:01:29] [Server thread/INFO]: J_J_Doubletime left the game
-[10:01:36] [User Authenticator #63/INFO]: UUID of player J_J_Doubletime is 335c2fe4-8836-42ce-b95b-9a5d4b1c36ca
-[10:01:37] [Server thread/INFO]: J_J_Doubletime[/61.105.204.231:49968] logged in with entity id 3505314 at (-454.93814601037116, 17.0, 351.30000001192093)
-[10:01:37] [Server thread/INFO]: J_J_Doubletime joined the game
-[10:03:15] [Server thread/INFO]: <J_J_Doubletime> 플랜테이션 ㄷㄷ
-[10:03:31] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6e5e817d-9747-4efa-bf4d-5df826218cf6
-[10:04:26] [Server thread/INFO]: <J_J_Doubletime> 내 집 앞에 보라색
-[10:04:31] [Server thread/INFO]: <J_J_Doubletime> 포탈 있음
-[10:04:51] [Server thread/INFO]: <J_J_Doubletime> 거기 나와서 2칸씩 난 길로 쭉 가서 쭉 가면
-[10:04:59] [Server thread/INFO]: <J_J_Doubletime> 네더 요새 하나 있음
-[10:06:04] [Server thread/INFO]: IH2 has just earned the achievement [We Need to Go Deeper]
-[10:06:06] [Server thread/WARN]: IH2 moved too quickly! 274.9800234083483,0.0,-233.03352345648685
-[10:06:07] [Server thread/INFO]: PohangGaeguri has just earned the achievement [We Need to Go Deeper]
-[10:06:16] [Server thread/INFO]: <J_J_Doubletime> ㄴㄴ
-[10:06:18] [Server thread/INFO]: <J_J_Doubletime> 뭐가
-[10:06:23] [Server thread/INFO]: <J_J_Doubletime> 아 그거
-[10:06:25] [Server thread/INFO]: <J_J_Doubletime> 패치됨
-[10:06:29] [Server thread/INFO]: <J_J_Doubletime> 이제 지옥 아무데나 생김
-[10:06:33] [Server thread/INFO]: <J_J_Doubletime> 땅 위 아니더라도
-[10:06:46] [Server thread/INFO]: <J_J_Doubletime> 그냥 길 난 대로 쭉
-[10:06:49] [Server thread/INFO]: <J_J_Doubletime> 나오셈
-[10:08:03] [Server thread/INFO]: <J_J_Doubletime> 그거 LED만들려면 필요함
-[10:09:12] [Server thread/INFO]: <J_J_Doubletime> ??
-[10:09:20] [Server thread/INFO]: <J_J_Doubletime> 아 그거 명확하진 않음
-[10:09:23] [Server thread/INFO]: <J_J_Doubletime> 길이
-[10:09:28] [Server thread/INFO]: <J_J_Doubletime> 그거 끼욱끼욱 조심
-[10:09:55] [Server thread/INFO]: <J_J_Doubletime> 끼욱끼욱 소리 내가 다 무섭네
-[10:10:05] [Server thread/INFO]: <J_J_Doubletime> 걸리면 좆됨
-[10:11:18] [Server thread/INFO]: <J_J_Doubletime> 거기 블레이즈 스폰 블럭 부수지 마셈
-[10:11:44] [Server thread/INFO]: <J_J_Doubletime> 걔들 유해가 포션 만드는데
-[10:11:46] [Server thread/INFO]: <J_J_Doubletime> 필수임
-[10:11:54] [Server thread/INFO]: <J_J_Doubletime> 죽은 시체
-[10:12:53] [Server thread/INFO]: <J_J_Doubletime> 더 있음
-[10:12:57] [Server thread/INFO]: <J_J_Doubletime> 나도 처음에 그렇게 생각했는데
-[10:13:01] [Server thread/INFO]: <J_J_Doubletime> 잘 찾다가 보면
-[10:13:05] [Server thread/INFO]: <J_J_Doubletime> 아래 층으로 내려갈 수 있는 곳이
-[10:13:08] [Server thread/INFO]: <J_J_Doubletime> 있더라
-[10:13:54] [Server thread/INFO]: <PohangGaeguri> 승규 뭐함 ㅋ
-[10:14:42] [Server thread/INFO]: <J_J_Doubletime> 때리면 레포데 할 수 있음
-[10:17:43] [Server thread/INFO]: <J_J_Doubletime> 왜냐면 내가 다
-[10:17:47] [Server thread/INFO]: <J_J_Doubletime> 먹었거든
-[10:18:43] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID ff62da64-a96b-46b4-a54f-273772f1652a
-[10:18:52] [Server thread/INFO]: <J_J_Doubletime> 오
-[10:18:58] [Server thread/INFO]: <J_J_Doubletime> 그건 새로 추가된 건가
-[10:19:19] [Server thread/INFO]: <J_J_Doubletime> 마그마 큐브... 이건 참 귀하군요
-[10:20:44] [Server thread/INFO]: <J_J_Doubletime> ㅇㅇ?
-[10:20:48] [Server thread/INFO]: <J_J_Doubletime> 지옥 공학?
-[10:20:55] [Server thread/INFO]: <J_J_Doubletime> 아니 ㅋㅋ
-[10:20:57] [Server thread/INFO]: <J_J_Doubletime> 그게 뭐지
-[10:20:59] [Server thread/INFO]: <J_J_Doubletime> 포스텍인가
-[10:21:09] [Server thread/INFO]: <J_J_Doubletime> 아 그거
-[10:21:15] [Server thread/INFO]: <J_J_Doubletime> 오
-[10:21:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2656ms behind, skipping 53 tick(s)
-[10:21:31] [Server thread/INFO]: PohangGaeguri tried to swim in lava
-[10:21:34] [Server thread/INFO]: <MadGay> zzzzzzzzzzzzzz
-[10:21:35] [Server thread/INFO]: <J_J_Doubletime> 헐
-[10:21:43] [Server thread/INFO]: <J_J_Doubletime> 달달한 지옥의 맛을 봐라
-[10:21:46] [Server thread/INFO]: MadGay has just earned the achievement [DIAMONDS!]
-[10:22:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2011ms behind, skipping 40 tick(s)
-[10:22:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2392ms behind, skipping 47 tick(s)
-[10:22:29] [Server thread/INFO]: <J_J_Doubletime> 레벨은 금방 오름
-[10:22:43] [Server thread/INFO]: <MadGay> 인챈트 하는데 얼마나 들더라
-[10:22:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2087ms behind, skipping 41 tick(s)
-[10:23:02] [Server thread/INFO]: <J_J_Doubletime> 레벨 최대 30 요구
-[10:23:07] [Server thread/INFO]: <J_J_Doubletime> 근데 소모는 최대 3임
-[10:23:20] [Server thread/INFO]: <J_J_Doubletime> ㅠㅠ
-[10:23:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2597ms behind, skipping 51 tick(s)
-[10:24:50] [Server thread/INFO]: <J_J_Doubletime> 15개
-[10:24:54] [Server thread/INFO]: <J_J_Doubletime> 있찌 않은ㅁ?
-[10:24:59] [Server thread/INFO]: <J_J_Doubletime> 책장 15개가 최대인데
-[10:25:43] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
-[10:25:49] [Server thread/INFO]: <MadGay> 이거 뭔 차이들임?
-[10:25:54] [Server thread/INFO]: <MadGay> 그냥 청금석 하나 넣고 하면 되나
-[10:26:15] [Server thread/INFO]: <J_J_Doubletime> 3번째 옵션은 청금석 3개 필요
-[10:26:18] [Server thread/INFO]: <J_J_Doubletime> 책 없음
-[10:26:24] [Server thread/INFO]: <J_J_Doubletime> 2개만 있음
-[10:26:53] [Server thread/INFO]: <MadGay> 책이 있어야 하는건가
-[10:27:04] [Server thread/INFO]: <J_J_Doubletime> 없어도 됨
-[10:29:21] [Server thread/INFO]: <IH2> 나 스키아프 팅김
-[10:30:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2262ms behind, skipping 45 tick(s)
-[10:30:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2477ms behind, skipping 49 tick(s)
-[10:30:46] [Server thread/INFO]: <J_J_Doubletime> ㅋㅋ 마크 튜토리얼 봄?
-[10:32:50] [Server thread/INFO]: <IH2> 아무 말도 안들리는데
-[10:32:53] [Server thread/INFO]: <IH2> 너네 말하는거
-[10:32:59] [Server thread/INFO]: <J_J_Doubletime> 나 지금 마이크 껐음
-[10:33:02] [Server thread/INFO]: <IH2> 채용
-[10:34:01] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6e5e817d-9747-4efa-bf4d-5df826218cf6
-[10:34:09] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID ff62da64-a96b-46b4-a54f-273772f1652a
-[10:35:26] [Server thread/INFO]: <PohangGaeguri> 나도 지금
-[10:35:33] [Server thread/INFO]: <PohangGaeguri> 마이크 껐음 여기 진짜 시끄러움
-[10:35:39] [Server thread/INFO]: <IH2> 오 그럼
-[10:35:42] [Server thread/INFO]: <IH2> 내목소리만 들른
-[10:35:45] [Server thread/INFO]: <IH2> 들리는거네
-[10:35:48] [Server thread/INFO]: <PohangGaeguri> ㅇㅇ
-[10:35:54] [Server thread/INFO]: <IH2> 물론 난 암말 안하고있음
-[10:35:59] [Server thread/INFO]: <IH2> 내 양 빼고
-[10:36:07] [Server thread/INFO]: <PohangGaeguri> 내 소는 말 잘함
-[10:36:13] [Server thread/INFO]: <IH2> 니 말은 소 잘함?
-[10:36:14] [Server thread/INFO]: <PohangGaeguri> ㄱ근데 넌 말 해도 됨
-[10:36:19] [Server thread/INFO]: <PohangGaeguri> 니 말은 들림 ㅋ
-[10:36:33] [Server thread/INFO]: <J_J_Doubletime> gd
-[10:36:36] [Server thread/INFO]: <PohangGaeguri> ㅎgd
-[10:42:31] [Server thread/INFO]: <IH2> 보고서 써야지
-[10:42:32] [Server thread/INFO]: <IH2> ㅂ
-[10:42:34] [Server thread/INFO]: IH2 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[10:42:34] [Server thread/INFO]: IH2 left the game
-[10:42:35] [Server thread/INFO]: <J_J_Doubletime> ]ㅂㅂㅂ
-[10:44:17] [Server thread/INFO]: <PohangGaeguri> 나도 나가볼래 ㅎㅎㅎㅎ ㅂㅂㅂㅂ
-[10:44:20] [Server thread/INFO]: <J_J_Doubletime> 안녕
-[10:44:24] [Server thread/INFO]: <PohangGaeguri> ㄴ농사 다지음 ㅋ
-[10:44:32] [Server thread/INFO]: PohangGaeguri lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[10:44:32] [Server thread/INFO]: PohangGaeguri left the game
-[10:46:16] [Server thread/INFO]: <MadGay> 거미 스포너도 찾았다
-[10:46:26] [Server thread/INFO]: <J_J_Doubletime> 그거 독거미
-[10:46:27] [Server thread/INFO]: <J_J_Doubletime> 지?
-[10:46:35] [Server thread/INFO]: <MadGay> 그냥 거미
-[10:46:41] [Server thread/INFO]: <J_J_Doubletime> 오 다행
-[10:50:33] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 2ade48d9-1ae0-435a-82ba-30d4a6a8222e
-[10:50:52] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
-[11:05:30] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID ff62da64-a96b-46b4-a54f-273772f1652a
-[11:05:39] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6e5e817d-9747-4efa-bf4d-5df826218cf6
-[11:05:39] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
-[11:06:01] [Server thread/INFO]: <J_J_Doubletime> 나도 나가볼게
-[11:06:02] [Server thread/INFO]: <J_J_Doubletime> 안녕
-[11:06:03] [Server thread/INFO]: <MadGay> ㅂㅂ
-[11:06:04] [Server thread/INFO]: J_J_Doubletime lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[11:06:04] [Server thread/INFO]: J_J_Doubletime left the game
-[11:09:11] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
-[11:10:08] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6e5e817d-9747-4efa-bf4d-5df826218cf6
-[11:10:16] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 2ade48d9-1ae0-435a-82ba-30d4a6a8222e
-[11:10:41] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID ff62da64-a96b-46b4-a54f-273772f1652a
-[11:34:31] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
-[11:42:16] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
-[11:42:40] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6e5e817d-9747-4efa-bf4d-5df826218cf6
-[11:42:44] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID ff62da64-a96b-46b4-a54f-273772f1652a
-[11:43:34] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
-[11:44:17] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
-[11:44:37] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6e5e817d-9747-4efa-bf4d-5df826218cf6
-[11:44:41] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID ff62da64-a96b-46b4-a54f-273772f1652a
-[11:48:46] [Server thread/INFO]: MadGay was slain by Enderman
-[11:49:40] [Server thread/INFO]: MadGay was slain by Enderman
-[11:51:39] [User Authenticator #64/INFO]: UUID of player jmc0417 is 774ef803-2da7-473d-a79b-9bee0fcce8ec
-[11:51:39] [Server thread/INFO]: jmc0417[/180.66.5.221:50882] logged in with entity id 3760405 at (-221.5, 62.0, 165.5)
-[11:51:39] [Server thread/INFO]: jmc0417 joined the game
-[11:52:06] [Server thread/INFO]: <jmc0417> 와 이제 패치 안해도 한글쳐지네
-[11:53:11] [Server thread/INFO]: jmc0417 hit the ground too hard
-[11:53:15] [Server thread/INFO]: <MadGay> zzzzzzzzzzzzzzzzzzzzzz
-[11:53:49] [Server thread/INFO]: jmc0417 was slain by Spider
-[11:55:21] [Server thread/INFO]: jmc0417 has just earned the achievement [Taking Inventory]
-[11:56:09] [Server thread/INFO]: jmc0417 drowned
-[11:56:15] [Server thread/INFO]: <MadGay> 정말 다양하게 죽는구나
-[11:56:26] [Server thread/INFO]: <jmc0417> 엌ㅋㅋㅋㅋ
-[11:58:41] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
-[11:59:14] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 2ade48d9-1ae0-435a-82ba-30d4a6a8222e
-[12:00:01] [Server thread/INFO]: [Server] [Backup] Server goes volatile for backup in 10 seconds
-[12:00:11] [Server thread/INFO]: [Server] [Backup] World is now volatile. Things may not be auto-saved for a short moment.
-[12:00:11] [Server thread/INFO]: Turned off world auto-saving
-[12:00:11] [Server thread/INFO]: Saving...
-[12:00:11] [Server thread/INFO]: Saved the world
+[04:44:51] [User Authenticator #73/INFO]: UUID of player jmc0417 is 774ef803-2da7-473d-a79b-9bee0fcce8ec
+[04:44:51] [Server thread/INFO]: jmc0417[/180.66.5.221:50143] logged in with entity id 5131446 at (-333.2404001226777, 83.0, 263.86734989012376)
+[04:44:51] [Server thread/INFO]: jmc0417 joined the game
+[05:00:33] [Server thread/INFO]: jmc0417 was slain by Spider
+[05:14:52] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
+[05:16:40] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
+[05:17:43] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
+[05:37:48] [Server thread/INFO]: jmc0417 was blown up by Creeper
+[05:37:48] [Server thread/WARN]: jmc0417 moved wrongly!
+[05:39:05] [Server thread/INFO]: jmc0417 was shot by Skeleton
+[05:49:48] [Server thread/INFO]: jmc0417 was blown up by Creeper
+[06:47:20] [Server thread/WARN]: jmc0417 moved wrongly!
+[06:48:53] [Server thread/INFO]: jmc0417 fell from a high place
+[06:49:31] [Server thread/INFO]: jmc0417 fell from a high place
+[06:51:18] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
+[06:51:42] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 2ade48d9-1ae0-435a-82ba-30d4a6a8222e
+[06:51:45] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6e5e817d-9747-4efa-bf4d-5df826218cf6
+[06:51:47] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID ff62da64-a96b-46b4-a54f-273772f1652a
+[06:51:51] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 2ade48d9-1ae0-435a-82ba-30d4a6a8222e
+[06:59:33] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
+[06:59:48] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6e5e817d-9747-4efa-bf4d-5df826218cf6
+[07:00:02] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID ff62da64-a96b-46b4-a54f-273772f1652a
+[07:03:07] [Server thread/INFO]: jmc0417 has just earned the achievement [Cow Tipper]
+[07:03:22] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6e5e817d-9747-4efa-bf4d-5df826218cf6
+[07:03:30] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6e5e817d-9747-4efa-bf4d-5df826218cf6
+[07:03:33] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID ff62da64-a96b-46b4-a54f-273772f1652a
+[07:03:45] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
+[07:04:21] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 2ade48d9-1ae0-435a-82ba-30d4a6a8222e
+[07:09:38] [Server thread/INFO]: jmc0417 was shot by Skeleton
+[07:12:13] [Server thread/INFO]: jmc0417 fell from a high place
+[07:18:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2319ms behind, skipping 46 tick(s)
+[07:18:22] [Server thread/WARN]: jmc0417 moved too quickly! 274.18411524617113,0.0,-232.72592391835903
+[07:21:05] [Server thread/INFO]: jmc0417 tried to swim in lava
+[07:21:47] [Server thread/WARN]: jmc0417 moved too quickly! 273.9851982938126,0.0,-232.69013218395412
+[07:24:37] [Server thread/INFO]: jmc0417 was slain by Zombie Pigman
+[07:39:38] [Server thread/WARN]: jmc0417 moved too quickly! 273.00836684501417,0.0,-232.03891121808846
+[07:40:27] [Server thread/WARN]: jmc0417 moved wrongly!
+[07:41:03] [Server thread/INFO]: jmc0417 fell from a high place
+[07:42:49] [Server thread/INFO]: jmc0417 fell from a high place
+[07:44:29] [Server thread/INFO]: jmc0417 fell from a high place
+[07:54:59] [Server thread/INFO]: jmc0417 fell from a high place
+[07:55:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2441ms behind, skipping 48 tick(s)
+[07:55:21] [Server thread/WARN]: jmc0417 moved too quickly! 273.99150611855606,0.0,-232.69433740044977
+[07:55:46] [Server thread/INFO]: jmc0417 tried to swim in lava
+[07:56:09] [Server thread/WARN]: jmc0417 moved too quickly! 273.9920850074559,0.0,-232.694723326383
+[07:59:53] [Server thread/INFO]: jmc0417 fell from a high place
+[08:00:25] [Server thread/INFO]: jmc0417 tried to swim in lava
+[08:00:43] [Server thread/INFO]: jmc0417 tried to swim in lava
+[08:03:11] [Server thread/INFO]: jmc0417 fell from a high place
+[08:05:14] [Server thread/INFO]: jmc0417 fell from a high place
+[08:05:58] [Server thread/INFO]: jmc0417 fell from a high place
+[08:13:40] [Server thread/INFO]: jmc0417 fell from a high place
+[08:28:35] [Server thread/INFO]: jmc0417 fell from a high place
+[08:35:06] [Server thread/INFO]: jmc0417 fell from a high place
+[08:37:26] [Server thread/INFO]: jmc0417 fell from a high place
+[08:41:04] [Server thread/INFO]: jmc0417 fell from a high place
+[08:48:33] [Server thread/INFO]: jmc0417 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[08:48:33] [Server thread/INFO]: jmc0417 left the game
+[10:42:28] [User Authenticator #74/INFO]: UUID of player IH2 is 057cf2da-6508-46c0-951e-da0e3d23d215
+[10:42:28] [Server thread/INFO]: IH2[/222.103.206.23:62415] logged in with entity id 5728979 at (-410.4624976154065, 79.5, 325.93122712538775)
+[10:42:28] [Server thread/INFO]: IH2 joined the game
+[10:42:28] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
+[10:42:28] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 2ade48d9-1ae0-435a-82ba-30d4a6a8222e
+[10:43:31] [Server thread/WARN]: IH2 moved too quickly! 0.9642231194022202,-1.0,-9.921923778009727
+[10:44:32] [Server thread/INFO]: IH2 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while write(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[10:44:32] [Server thread/INFO]: IH2 left the game
+[11:20:03] [User Authenticator #75/INFO]: UUID of player IH2 is 057cf2da-6508-46c0-951e-da0e3d23d215
+[11:20:03] [Server thread/INFO]: IH2[/222.103.206.23:63658] logged in with entity id 5736786 at (-389.74886276961143, 74.0, 338.6954907721351)
+[11:20:03] [Server thread/INFO]: IH2 joined the game
+[11:20:03] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
+[11:20:04] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 2ade48d9-1ae0-435a-82ba-30d4a6a8222e
+[11:20:40] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6e5e817d-9747-4efa-bf4d-5df826218cf6
+[11:22:24] [Server thread/WARN]: IH2 moved too quickly! 9.964529267802618,0.0,1.4465288238407368
+[11:22:28] [Server thread/INFO]: IH2 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[11:22:28] [Server thread/INFO]: IH2 left the game
+[11:53:25] [User Authenticator #76/INFO]: UUID of player IH2 is 057cf2da-6508-46c0-951e-da0e3d23d215
+[11:53:25] [Server thread/INFO]: IH2[/222.103.206.23:64895] logged in with entity id 5746173 at (-374.49008742462956, 72.0, 246.68544399395375)
+[11:53:25] [Server thread/INFO]: IH2 joined the game
+[11:53:37] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
+[11:53:39] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 2ade48d9-1ae0-435a-82ba-30d4a6a8222e
+[11:54:16] [Server thread/INFO]: IH2 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[11:54:16] [Server thread/INFO]: IH2 left the game
+[11:56:53] [User Authenticator #77/INFO]: UUID of player jmc0417 is 774ef803-2da7-473d-a79b-9bee0fcce8ec
+[11:56:53] [Server thread/INFO]: jmc0417[/180.66.5.221:49905] logged in with entity id 5748277 at (-331.93453122147645, 79.0, 260.9990497881581)
+[11:56:53] [Server thread/INFO]: jmc0417 joined the game
+[11:57:23] [User Authenticator #78/INFO]: UUID of player IH2 is 057cf2da-6508-46c0-951e-da0e3d23d215
+[11:57:23] [Server thread/INFO]: IH2[/222.103.206.23:65109] logged in with entity id 5749917 at (-388.5959031623144, 74.0, 343.69902961425595)
+[11:57:23] [Server thread/INFO]: IH2 joined the game
+[11:57:23] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ac761442-d886-4948-ae28-d466e91e4a8b
+[11:57:24] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 2ade48d9-1ae0-435a-82ba-30d4a6a8222e
+[11:57:32] [Server thread/INFO]: <IH2> gd....
+[11:57:36] [Server thread/INFO]: <jmc0417> ㅎㅇ
+[11:57:41] [Server thread/INFO]: <jmc0417> 범인 찾은 이라이..
+[11:58:36] [Server thread/INFO]: IH2 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[11:58:36] [Server thread/INFO]: IH2 left the game
+[12:00:02] [Server thread/INFO]: [Server] [Backup] Server goes volatile for backup in 10 seconds
+[12:00:12] [Server thread/INFO]: [Server] [Backup] World is now volatile. Things may not be auto-saved for a short moment.
+[12:00:12] [Server thread/INFO]: Turned off world auto-saving
+[12:00:12] [Server thread/INFO]: Saving...
+[12:00:12] [Server thread/INFO]: Saved the world
