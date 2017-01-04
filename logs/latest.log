@@ -1,69 +1,29 @@
-[10:01:12] [User Authenticator #122/INFO]: UUID of player HanKukSanBae is 4e3e5c05-62f1-4fa7-a471-8f8e9950fb07
-[10:01:12] [Server thread/INFO]: HanKukSanBae[/119.202.80.70:3559] logged in with entity id 9331058 at (-337.36766297470786, 77.0, 303.0964488765563)
-[10:01:12] [Server thread/INFO]: HanKukSanBae joined the game
-[10:02:47] [Server thread/INFO]: HanKukSanBae lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[10:02:47] [Server thread/INFO]: HanKukSanBae left the game
-[10:03:15] [User Authenticator #123/INFO]: UUID of player HanKukSanBae is 4e3e5c05-62f1-4fa7-a471-8f8e9950fb07
-[10:03:15] [Server thread/INFO]: HanKukSanBae[/119.202.80.70:3615] logged in with entity id 9336485 at (-371.25592857628874, 71.0, 429.2157858942842)
-[10:03:15] [Server thread/INFO]: HanKukSanBae joined the game
-[10:45:28] [Server thread/INFO]: HanKukSanBae lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[10:45:28] [Server thread/INFO]: HanKukSanBae left the game
-[10:48:47] [User Authenticator #124/INFO]: UUID of player HanKukSanBae is 4e3e5c05-62f1-4fa7-a471-8f8e9950fb07
-[10:48:47] [Server thread/INFO]: HanKukSanBae[/119.202.80.70:1646] logged in with entity id 9385813 at (-366.6208129146455, 70.0, 419.4271871468416)
-[10:48:47] [Server thread/INFO]: HanKukSanBae joined the game
-[10:58:10] [User Authenticator #125/INFO]: UUID of player PohangGaeguri is 10cae923-68cc-4db8-818a-f6be3174ecb2
-[10:58:10] [Server thread/INFO]: PohangGaeguri[/141.223.176.77:49780] logged in with entity id 9398414 at (-337.3527548415838, 72.0, 305.88568105121067)
-[10:58:10] [Server thread/INFO]: PohangGaeguri joined the game
-[10:58:17] [Server thread/INFO]: <PohangGaeguri> ㅎㅇㅎㅇ
-[10:58:18] [Server thread/INFO]: <HanKukSanBae> 깜짝이야
-[10:58:22] [Server thread/INFO]: <HanKukSanBae> wkwk
-[10:58:23] [Server thread/INFO]: <PohangGaeguri> 뭐할래
-[10:58:26] [Server thread/INFO]: <HanKukSanBae> 자자
-[10:58:42] [Server thread/INFO]: <PohangGaeguri> 뭐할래
-[10:58:44] [Server thread/INFO]: <HanKukSanBae> 나 사암 만들고 있음
-[10:58:49] [Server thread/INFO]: <PohangGaeguri> 어디서
-[10:58:51] [Server thread/INFO]: <HanKukSanBae> 모래 캐러 ㄱㄱ
-[10:58:59] [Server thread/INFO]: <PohangGaeguri> 모래는 삽임
-[10:59:22] [Server thread/INFO]: <PohangGaeguri> rr
-[10:59:37] [Server thread/INFO]: <HanKukSanBae> zzzzzzzzzzzz
-[10:59:49] [Server thread/INFO]: HanKukSanBae was slain by PohangGaeguri
-[10:59:52] [Server thread/INFO]: <PohangGaeguri> ?
-[10:59:56] [Server thread/INFO]: <PohangGaeguri> 왜 한방 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
-[11:00:05] [Server thread/INFO]: <PohangGaeguri> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ?
-[11:00:07] [Server thread/INFO]: <HanKukSanBae> 하..
-[11:00:12] [Server thread/INFO]: <PohangGaeguri> ㅋㅋㅋㅋㅋㅋ 빨리와ㅓ
-[11:00:17] [Server thread/INFO]: <PohangGaeguri> ㅇ
-[11:00:45] [Server thread/INFO]: <HanKukSanBae> 내 물품 ㅠㅠ
-[11:00:49] [Server thread/INFO]: <PohangGaeguri> 내가 다 주움
-[11:00:57] [Server thread/INFO]: <PohangGaeguri> 어디임
-[11:01:28] [Server thread/INFO]: <PohangGaeguri> 나오셈
-[11:01:35] [Server thread/INFO]: <PohangGaeguri> 맏아
-[11:01:38] [Server thread/INFO]: <PohangGaeguri> 받아
-[11:01:38] [Server thread/INFO]: <HanKukSanBae> 근데 방금 그거 뭐임
-[11:01:55] [Server thread/INFO]: <HanKukSanBae> 다이아 곡괭이 한방이면 다 뒤지는 건가
-[11:02:00] [Server thread/INFO]: <PohangGaeguri> ㄴㄴㄴ
-[11:02:09] [Server thread/INFO]: <PohangGaeguri> rrr
-[11:04:00] [Server thread/INFO]: <HanKukSanBae> so soil
-[11:04:20] [Server thread/INFO]: <PohangGaeguri> 뭐지 ㅇ물이 어디서 나오는거임 ㅋ ㅋ
-[11:04:59] [Server thread/INFO]: <PohangGaeguri> 안스며드네 ㅜ
-[11:05:23] [Server thread/INFO]: <PohangGaeguri> 야
-[11:05:31] [Server thread/INFO]: <PohangGaeguri> 다이아 캐러가자
-[11:05:40] [Server thread/INFO]: <PohangGaeguri> 지;ㅂ으로 ㄱㄱ
-[11:05:40] [Server thread/INFO]: <HanKukSanBae> 아직 만나지 못한 친군데
-[11:06:10] [Server thread/INFO]: <PohangGaeguri> 뭐냐 수박도 있냐
-[11:06:18] [Server thread/INFO]: <HanKukSanBae> 난 아직 몰라
-[11:07:20] [Server thread/INFO]: <HanKukSanBae> 야 그룹콜
-[11:08:03] [Server thread/INFO]: <HanKukSanBae> 니 폰 안되냐
-[11:08:07] [Server thread/INFO]: <PohangGaeguri> 드,ㄹ어ㅏ오셈
-[11:08:37] [Server thread/INFO]: <PohangGaeguri> 니 왜안드러어오
-[11:08:46] [Server thread/INFO]: <HanKukSanBae> 니 한테 전화걸고 잇엇는데
-[11:08:55] [Server thread/INFO]: <PohangGaeguri> 그룹콜 ㄱㄱㄱ
-[11:09:01] [Server thread/INFO]: <PohangGaeguri> 지금 최유정하고 노는중
-[11:28:21] [Server thread/WARN]: PohangGaeguri moved wrongly!
-[11:37:39] [Server thread/INFO]: HanKukSanBae lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[11:37:39] [Server thread/INFO]: HanKukSanBae left the game
-[11:37:57] [Server thread/INFO]: PohangGaeguri lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[11:37:57] [Server thread/INFO]: PohangGaeguri left the game
+[04:25:44] [User Authenticator #132/INFO]: UUID of player HanKukSanBae is 4e3e5c05-62f1-4fa7-a471-8f8e9950fb07
+[04:25:44] [Server thread/INFO]: HanKukSanBae[/119.202.80.70:2359] logged in with entity id 10025743 at (-369.3474153027582, 70.0, 420.4780839425483)
+[04:25:44] [Server thread/INFO]: HanKukSanBae joined the game
+[04:55:19] [User Authenticator #133/INFO]: UUID of player MadGay is 376185f2-fe72-4871-98af-cf6900b720ba
+[04:55:19] [Server thread/INFO]: MadGay[/119.202.80.25:11396] logged in with entity id 10051158 at (-357.07746740635037, 72.0, 243.9207056677961)
+[04:55:19] [Server thread/INFO]: MadGay joined the game
+[04:55:32] [Server thread/INFO]: <MadGay> 존나 열심히 하네
+[04:55:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2404ms behind, skipping 48 tick(s)
+[04:55:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2434ms behind, skipping 48 tick(s)
+[04:56:10] [Server thread/INFO]: MadGay lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[04:56:10] [Server thread/INFO]: MadGay left the game
+[05:16:47] [Server thread/INFO]: HanKukSanBae lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[05:16:47] [Server thread/INFO]: HanKukSanBae left the game
+[09:52:09] [User Authenticator #134/INFO]: UUID of player HanKukSanBae is 4e3e5c05-62f1-4fa7-a471-8f8e9950fb07
+[09:52:09] [Server thread/INFO]: HanKukSanBae[/119.202.80.70:3294] logged in with entity id 10067638 at (-373.68983750773344, 70.0, 424.938300102027)
+[09:52:09] [Server thread/INFO]: HanKukSanBae joined the game
+[10:10:36] [Server thread/INFO]: HanKukSanBae lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[10:10:36] [Server thread/INFO]: HanKukSanBae left the game
+[10:11:07] [User Authenticator #135/INFO]: UUID of player HanKukSanBae is 4e3e5c05-62f1-4fa7-a471-8f8e9950fb07
+[10:11:07] [Server thread/INFO]: HanKukSanBae[/119.202.80.70:3555] logged in with entity id 10098944 at (-364.4858368507204, 70.0, 435.07125662259386)
+[10:11:07] [Server thread/INFO]: HanKukSanBae joined the game
+[10:18:13] [Server thread/INFO]: HanKukSanBae lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[10:18:13] [Server thread/INFO]: HanKukSanBae left the game
+[11:46:51] [User Authenticator #136/INFO]: UUID of player MadGay is 376185f2-fe72-4871-98af-cf6900b720ba
+[11:46:51] [Server thread/INFO]: MadGay[/119.202.80.25:7007] logged in with entity id 10108691 at (-360.70438452168503, 72.0, 246.03839135850092)
+[11:46:51] [Server thread/INFO]: MadGay joined the game
 [12:00:01] [Server thread/INFO]: [Server] [Backup] Server goes volatile for backup in 10 seconds
 [12:00:11] [Server thread/INFO]: [Server] [Backup] World is now volatile. Things may not be auto-saved for a short moment.
 [12:00:11] [Server thread/INFO]: Turned off world auto-saving
