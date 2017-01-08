@@ -1,138 +1,57 @@
-[14:27:14] [Server thread/INFO]: Starting minecraft server version 1.11.2
-[14:27:14] [Server thread/INFO]: Loading properties
-[14:27:14] [Server thread/INFO]: Default game type: SURVIVAL
-[14:27:14] [Server thread/INFO]: Generating keypair
-[14:27:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:27:14] [Server thread/INFO]: Using epoll channel type
-[14:27:15] [Server thread/INFO]: Preparing level "world"
-[14:27:15] [Server thread/INFO]: Preparing start region for level 0
-[14:27:17] [Server thread/INFO]: Preparing spawn area: 0%
-[14:27:19] [Server thread/INFO]: Preparing spawn area: 7%
-[14:27:19] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID bf97f856-97be-4550-851f-19c5e5f7e7f7
-[14:27:19] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID e0716f12-c683-460d-b422-aa648785d29f
-[14:27:19] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 0d7cce96-563f-4156-bbf7-c17cf7ac73fb
-[14:27:19] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID f027814f-5c69-4795-81c7-b3b3111193ac
-[14:27:20] [Server thread/INFO]: Preparing spawn area: 40%
-[14:27:21] [Server thread/INFO]: Preparing spawn area: 79%
-[14:27:21] [Server thread/INFO]: Done (6.278s)! For help, type "help" or "?"
-[14:27:27] [User Authenticator #1/INFO]: UUID of player MadGay is 376185f2-fe72-4871-98af-cf6900b720ba
-[14:27:27] [Server thread/INFO]: MadGay[/119.202.80.25:14573] logged in with entity id 931 at (-2024.2330852752532, 75.0, 21729.295459554338)
-[14:27:27] [Server thread/INFO]: MadGay joined the game
-[14:27:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5070ms behind, skipping 101 tick(s)
-[14:28:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 26259ms behind, skipping 525 tick(s)
-[14:28:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6679ms behind, skipping 133 tick(s)
-[14:28:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16665ms behind, skipping 333 tick(s)
-[14:29:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3711ms behind, skipping 74 tick(s)
-[14:29:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3496ms behind, skipping 69 tick(s)
-[14:29:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2608ms behind, skipping 52 tick(s)
-[14:30:17] [User Authenticator #2/INFO]: UUID of player jmc0417 is 774ef803-2da7-473d-a79b-9bee0fcce8ec
-[14:30:17] [Server thread/INFO]: jmc0417[/141.223.175.214:1138] logged in with entity id 8579 at (-513.3190312184015, 81.4010577074438, 330.56278837363465)
-[14:30:17] [Server thread/INFO]: jmc0417 joined the game
-[14:30:17] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID ff62da64-a96b-46b4-a54f-273772f1652a
-[14:30:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11431ms behind, skipping 228 tick(s)
-[14:30:32] [User Authenticator #3/INFO]: UUID of player illuxic is cce6a005-4dc7-4fb5-b541-051126c83f44
-[14:30:32] [Server thread/INFO]: illuxic[/141.223.175.221:3992] logged in with entity id 9974 at (-35.56872054204686, 68.7125, 351.5)
-[14:30:32] [Server thread/INFO]: illuxic joined the game
-[14:30:33] [Server thread/WARN]: Horse (vehicle of jmc0417) moved too quickly! 9.741161100070599,2.0,2.104045972638403
-[14:30:33] [Server thread/WARN]: Horse (vehicle of jmc0417) moved too quickly! 10.055876966779635,2.0,2.442195578869587
-[14:30:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 18810ms behind, skipping 376 tick(s)
-[14:30:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8216ms behind, skipping 164 tick(s)
-[14:31:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15339ms behind, skipping 306 tick(s)
-[14:31:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3645ms behind, skipping 72 tick(s)
-[14:31:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15685ms behind, skipping 313 tick(s)
-[14:31:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3204ms behind, skipping 64 tick(s)
-[14:32:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 21499ms behind, skipping 429 tick(s)
-[14:32:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2012ms behind, skipping 40 tick(s)
-[14:32:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2251ms behind, skipping 45 tick(s)
-[14:33:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8107ms behind, skipping 162 tick(s)
-[14:33:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12431ms behind, skipping 248 tick(s)
-[14:33:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7574ms behind, skipping 151 tick(s)
-[14:34:07] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6e5e817d-9747-4efa-bf4d-5df826218cf6
-[14:34:07] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID ff62da64-a96b-46b4-a54f-273772f1652a
-[14:34:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 18505ms behind, skipping 370 tick(s)
-[14:34:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2840ms behind, skipping 56 tick(s)
-[14:34:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7994ms behind, skipping 159 tick(s)
-[14:35:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4482ms behind, skipping 89 tick(s)
-[14:35:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11333ms behind, skipping 226 tick(s)
-[14:35:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3412ms behind, skipping 68 tick(s)
-[14:39:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3226ms behind, skipping 64 tick(s)
-[14:39:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16372ms behind, skipping 327 tick(s)
-[14:39:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4616ms behind, skipping 92 tick(s)
-[14:40:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16075ms behind, skipping 321 tick(s)
-[14:40:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4314ms behind, skipping 86 tick(s)
-[14:41:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16419ms behind, skipping 328 tick(s)
-[14:41:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3668ms behind, skipping 73 tick(s)
-[14:41:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 29116ms behind, skipping 582 tick(s)
-[14:42:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5928ms behind, skipping 118 tick(s)
-[14:42:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 19326ms behind, skipping 386 tick(s)
-[14:42:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4273ms behind, skipping 85 tick(s)
-[14:43:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 34143ms behind, skipping 682 tick(s)
-[14:43:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9704ms behind, skipping 194 tick(s)
-[14:44:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15480ms behind, skipping 309 tick(s)
-[14:44:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8100ms behind, skipping 162 tick(s)
-[14:44:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 28220ms behind, skipping 564 tick(s)
-[14:44:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6226ms behind, skipping 124 tick(s)
-[14:45:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17001ms behind, skipping 340 tick(s)
-[14:45:25] [Server thread/WARN]: Horse moved wrongly!
-[14:45:26] [Server thread/WARN]: Horse moved wrongly!
-[14:45:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3999ms behind, skipping 79 tick(s)
-[14:45:40] [Server thread/WARN]: Horse moved wrongly!
-[14:45:40] [Server thread/WARN]: Horse moved wrongly!
-[14:45:40] [Server thread/WARN]: Horse moved wrongly!
-[14:45:40] [Server thread/WARN]: Horse moved wrongly!
-[14:45:41] [Server thread/WARN]: Horse moved wrongly!
-[14:45:41] [Server thread/WARN]: Horse moved wrongly!
-[14:45:41] [Server thread/WARN]: Horse moved wrongly!
-[14:45:41] [Server thread/WARN]: Horse moved wrongly!
-[14:45:41] [Server thread/WARN]: Horse moved wrongly!
-[14:45:41] [Server thread/WARN]: Horse moved wrongly!
-[14:45:41] [Server thread/WARN]: Horse moved wrongly!
-[14:45:41] [Server thread/WARN]: Horse moved wrongly!
-[14:45:41] [Server thread/WARN]: Horse moved wrongly!
-[14:46:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 54178ms behind, skipping 1083 tick(s)
-[14:46:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4884ms behind, skipping 97 tick(s)
-[14:47:22] [Server thread/WARN]: Horse (vehicle of jmc0417) moved too quickly! 10.177345162254355,0.0,-0.010887410375289619
-[14:47:22] [Server thread/WARN]: Horse (vehicle of jmc0417) moved too quickly! 10.639951760538636,0.0,-0.01138229266507551
-[14:47:22] [Server thread/WARN]: Horse (vehicle of jmc0417) moved too quickly! 11.102558358822932,0.0,-0.011877174954861403
-[14:47:22] [Server thread/WARN]: Horse (vehicle of jmc0417) moved too quickly! 11.565164957107214,0.0,-0.012372057244647294
-[14:47:22] [Server thread/WARN]: Boat (vehicle of MadGay) moved too quickly! -1.9271235942142084E-5,0.0,10.399996618936711
-[14:47:22] [Server thread/WARN]: Horse (vehicle of jmc0417) moved too quickly! 12.02777155539151,0.0,-0.012866939534433186
-[14:47:22] [Server thread/WARN]: Boat (vehicle of MadGay) moved too quickly! -1.940434958669357E-5,0.0,10.799996510006167
-[14:47:22] [Server thread/WARN]: Horse (vehicle of jmc0417) moved too quickly! 12.490378153675792,0.0,-0.013361821824219078
-[14:47:22] [Server thread/WARN]: Boat (vehicle of MadGay) moved too quickly! -1.9524151866789907E-5,0.0,11.199996401537646
-[14:47:22] [Server thread/WARN]: Horse (vehicle of jmc0417) moved too quickly! 12.952984751960088,0.0,-0.01385670411400497
-[14:47:26] [Server thread/WARN]: Boat (vehicle of MadGay) moved too quickly! -3.788954927586019E-9,0.0,10.399997287855513
-[14:47:26] [Server thread/WARN]: Boat (vehicle of MadGay) moved too quickly! -3.815330273937434E-9,0.0,10.799997183545202
-[14:47:26] [Server thread/WARN]: Boat (vehicle of MadGay) moved too quickly! -3.83897713618353E-9,0.0,11.19999707923489
-[14:47:26] [Server thread/WARN]: Boat (vehicle of MadGay) moved too quickly! -3.860350261675194E-9,0.0,11.59999697492458
-[14:47:26] [Server thread/WARN]: Boat (vehicle of MadGay) moved too quickly! -3.879449650412425E-9,0.0,11.999996870614268
-[14:47:26] [Server thread/WARN]: Boat (vehicle of MadGay) moved too quickly! -3.896730049746111E-9,0.0,12.399996766303957
-[14:47:26] [Server thread/WARN]: Boat (vehicle of MadGay) moved too quickly! -3.912191459676251E-9,0.0,12.799996661993646
-[14:47:26] [Server thread/WARN]: Boat (vehicle of MadGay) moved too quickly! -3.926288627553731E-9,0.0,13.199996557683335
-[14:47:26] [Server thread/WARN]: Horse (vehicle of jmc0417) moved too quickly! 10.177345162254355,0.0,-0.010887410375289619
-[14:47:26] [Server thread/WARN]: Horse (vehicle of jmc0417) moved too quickly! 10.639951760538644,0.0,-0.01138229266507551
-[14:47:26] [Server thread/WARN]: Horse (vehicle of jmc0417) moved too quickly! 11.102558358822932,0.0,-0.011877174954861403
-[14:47:26] [Server thread/WARN]: Horse (vehicle of jmc0417) moved too quickly! 11.565164957107221,0.0,-0.012372057244647294
-[14:47:26] [Server thread/WARN]: Horse (vehicle of jmc0417) moved too quickly! 12.02777155539151,0.0,-0.012866939534433186
-[14:47:26] [Server thread/WARN]: Horse (vehicle of jmc0417) moved too quickly! 12.490378153675799,0.0,-0.013361821824219078
-[14:47:26] [Server thread/WARN]: Horse (vehicle of jmc0417) moved too quickly! 12.952984751960088,0.0,-0.01385670411400497
-[14:47:26] [Server thread/WARN]: Horse (vehicle of jmc0417) moved too quickly! 13.415591350244377,0.0,-0.014351586403790861
-[14:47:26] [Server thread/WARN]: Horse (vehicle of jmc0417) moved too quickly! 13.878197948528666,0.0,-0.014846468693576753
-[14:47:26] [Server thread/WARN]: Horse (vehicle of jmc0417) moved too quickly! 14.340804546812954,0.0,-0.015341350983362645
-[14:47:26] [Server thread/WARN]: Horse (vehicle of jmc0417) moved too quickly! 14.803411145097243,0.0,-0.015836233273148537
-[14:47:26] [Server thread/WARN]: Boat (vehicle of MadGay) moved too quickly! -3.939021553378552E-9,0.0,13.599996453373024
-[14:47:26] [Server thread/WARN]: Horse (vehicle of jmc0417) moved too quickly! 15.050942712458642,0.0,-0.015836233273148537
-[14:47:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 40031ms behind, skipping 800 tick(s)
-[14:47:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5964ms behind, skipping 119 tick(s)
-[14:49:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 59783ms behind, skipping 1195 tick(s)
-[14:49:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6207ms behind, skipping 124 tick(s)
-[14:49:50] [Server thread/WARN]: Boat (vehicle of MadGay) moved too quickly! -7.132412149499487,-1.51609680187903E-6,7.501417481154931
-[14:49:50] [Server thread/WARN]: Boat (vehicle of MadGay) moved too quickly! -7.444085861607164,-1.523848155216001E-6,7.742263921350968
-[14:49:50] [Server thread/WARN]: Boat (vehicle of MadGay) moved too quickly! -7.752328952024072,-1.5282093599466862E-6,7.987804514388699
-[14:50:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 37601ms behind, skipping 752 tick(s)
-[14:50:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4392ms behind, skipping 87 tick(s)
-[14:51:38] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
-[14:51:38] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[14:51:39] [Server Watchdog/ERROR]: This crash report has been saved to: /root/minecraft/./crash-reports/crash-2017-01-08_14.51.39-server.txt
-[14:51:39] [Server Shutdown Thread/INFO]: Stopping server
-[14:51:39] [Server Shutdown Thread/INFO]: Saving players
+[15:34:52] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[15:34:52] [Server thread/INFO]: Loading properties
+[15:34:52] [Server thread/INFO]: Default game type: SURVIVAL
+[15:34:52] [Server thread/INFO]: Generating keypair
+[15:34:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:34:53] [Server thread/INFO]: Using epoll channel type
+[15:34:53] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-d5e7885 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
+[15:34:54] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
+[15:34:54] [Server thread/INFO]: [dynmap] version=git-Bukkit-d5e7885 (MC: 1.11.2)
+[15:34:54] [Server thread/INFO]: [dynmap] Mod Support API available
+[15:34:54] [Server thread/INFO]: Preparing level "world"
+[15:34:55] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3528291572991477543)
+[15:34:57] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:58] [Server thread/INFO]: Preparing spawn area: 7%
+[15:34:59] [Server thread/INFO]: Preparing spawn area: 21%
+[15:35:00] [Server thread/INFO]: Preparing spawn area: 40%
+[15:35:01] [Server thread/INFO]: Preparing spawn area: 68%
+[15:35:02] [Server thread/INFO]: Preparing spawn area: 90%
+[15:35:02] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3528291572991477543)
+[15:35:03] [Server thread/INFO]: Preparing spawn area: 33%
+[15:35:04] [Server thread/INFO]: Preparing spawn area: 68%
+[15:35:05] [Server thread/INFO]: Preparing spawn area: 85%
+[15:35:05] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3528291572991477543)
+[15:35:06] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
+[15:35:06] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
+[15:35:07] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[15:35:07] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[15:35:07] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[15:35:09] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
+[15:35:09] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[15:35:09] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[15:35:10] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[15:35:10] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
+[15:35:10] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[15:35:10] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[15:35:10] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[15:35:10] [Server thread/INFO]: [dynmap] Enabled
+[15:35:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:35:10] [Server thread/INFO]: Done (15.574s)! For help, type "help" or "?"
+[15:35:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2753ms behind, skipping 55 tick(s)
+[15:36:07] [User Authenticator #1/INFO]: UUID of player J_J_Doubletime is 335c2fe4-8836-42ce-b95b-9a5d4b1c36ca
+[15:36:07] [Server thread/INFO]: J_J_Doubletime[/61.105.204.231:62909] logged in with entity id 1054 at ([world]-161.12105636275285, 63.0, 339.45463980729363)
+[15:36:15] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[15:38:29] [Server thread/INFO]: J_J_Doubletime lost connection: Disconnected
+[15:38:29] [Server thread/INFO]: J_J_Doubletime left the game
+[15:38:52] [Server thread/INFO]: Stopping the server
+[15:38:52] [Server thread/INFO]: Stopping server
+[15:38:52] [Server thread/INFO]: [dynmap] Disabling dynmap v2.3-1142
+[15:38:53] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[15:38:53] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[15:38:54] [Server thread/INFO]: [dynmap] Saved 6 pending tile renders in world 'world'
+[15:38:54] [Server thread/INFO]: [dynmap] Disabled
+[15:38:54] [Server thread/INFO]: Saving players
+[15:38:54] [Server thread/INFO]: Saving worlds
+[15:38:54] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[15:38:54] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[15:38:54] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
