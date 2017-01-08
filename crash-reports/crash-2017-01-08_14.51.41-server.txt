@@ -1,0 +1,61 @@
+---- Minecraft Crash Report ----
+// Would you like a cupcake?
+
+Time: 1/8/17 2:51 PM
+Description: Exception ticking world
+
+java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.remove(HashMap.java:1451)
+	at lv.d(SourceFile:198)
+	at lw.d(SourceFile:201)
+	at net.minecraft.server.MinecraftServer.D(SourceFile:626)
+	at lh.D(SourceFile:335)
+	at net.minecraft.server.MinecraftServer.C(SourceFile:562)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:466)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at java.util.HashMap$HashIterator.remove(HashMap.java:1451)
+	at lv.d(SourceFile:198)
+	at lw.d(SourceFile:201)
+
+-- Affected level --
+Details:
+	Level name: world
+	All players: 1 total; [ly['jmc0417'/8579, l='world', x=522.00, y=69.85, z=350.46]]
+	Chunk stats: ServerChunkCache: 888 Drop: 163
+	Level seed: -3528291572991477543
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: 
+	Level spawn location: World: (-232,64,160), Chunk: (at 8,4,0 in -15,10; contains blocks -240,0,160 to -225,255,175), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,0,0 to -1,255,511)
+	Level time: 30745801 game time, 31345391 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 57117 (now: false), thunder time: 11177 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.D(SourceFile:626)
+	at lh.D(SourceFile:335)
+	at net.minecraft.server.MinecraftServer.C(SourceFile:562)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:466)
+	at java.lang.Thread.run(Thread.java:745)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.11.2
+	Operating System: Linux (amd64) version 4.4.0-57-generic
+	Java Version: 1.8.0_111, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 501710248 bytes (478 MB) / 1018167296 bytes (971 MB) up to 1018167296 bytes (971 MB)
+	JVM Flags: 2 total; -Xms1024M -Xmx1024M
+	IntCache: cache: 0, tcache: 0, allocated: 13, tallocated: 95
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 20; [ly['jmc0417'/8579, l='world', x=522.00, y=69.85, z=350.46]]
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)
