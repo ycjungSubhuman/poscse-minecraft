@@ -1,57 +1,426 @@
-[15:34:52] [Server thread/INFO]: Starting minecraft server version 1.11.2
-[15:34:52] [Server thread/INFO]: Loading properties
-[15:34:52] [Server thread/INFO]: Default game type: SURVIVAL
-[15:34:52] [Server thread/INFO]: Generating keypair
-[15:34:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:34:53] [Server thread/INFO]: Using epoll channel type
-[15:34:53] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-d5e7885 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
-[15:34:54] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
-[15:34:54] [Server thread/INFO]: [dynmap] version=git-Bukkit-d5e7885 (MC: 1.11.2)
-[15:34:54] [Server thread/INFO]: [dynmap] Mod Support API available
-[15:34:54] [Server thread/INFO]: Preparing level "world"
-[15:34:55] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3528291572991477543)
-[15:34:57] [Server thread/INFO]: Preparing spawn area: 0%
-[15:34:58] [Server thread/INFO]: Preparing spawn area: 7%
-[15:34:59] [Server thread/INFO]: Preparing spawn area: 21%
-[15:35:00] [Server thread/INFO]: Preparing spawn area: 40%
-[15:35:01] [Server thread/INFO]: Preparing spawn area: 68%
-[15:35:02] [Server thread/INFO]: Preparing spawn area: 90%
-[15:35:02] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3528291572991477543)
-[15:35:03] [Server thread/INFO]: Preparing spawn area: 33%
-[15:35:04] [Server thread/INFO]: Preparing spawn area: 68%
-[15:35:05] [Server thread/INFO]: Preparing spawn area: 85%
-[15:35:05] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3528291572991477543)
-[15:35:06] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
-[15:35:06] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
-[15:35:07] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
-[15:35:07] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
-[15:35:07] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[15:35:09] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
-[15:35:09] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
-[15:35:09] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
-[15:35:10] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
-[15:35:10] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
-[15:35:10] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[15:35:10] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[15:35:10] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[15:35:10] [Server thread/INFO]: [dynmap] Enabled
-[15:35:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:35:10] [Server thread/INFO]: Done (15.574s)! For help, type "help" or "?"
-[15:35:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2753ms behind, skipping 55 tick(s)
-[15:36:07] [User Authenticator #1/INFO]: UUID of player J_J_Doubletime is 335c2fe4-8836-42ce-b95b-9a5d4b1c36ca
-[15:36:07] [Server thread/INFO]: J_J_Doubletime[/61.105.204.231:62909] logged in with entity id 1054 at ([world]-161.12105636275285, 63.0, 339.45463980729363)
-[15:36:15] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[15:38:29] [Server thread/INFO]: J_J_Doubletime lost connection: Disconnected
-[15:38:29] [Server thread/INFO]: J_J_Doubletime left the game
-[15:38:52] [Server thread/INFO]: Stopping the server
-[15:38:52] [Server thread/INFO]: Stopping server
-[15:38:52] [Server thread/INFO]: [dynmap] Disabling dynmap v2.3-1142
-[15:38:53] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[15:38:53] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[15:38:54] [Server thread/INFO]: [dynmap] Saved 6 pending tile renders in world 'world'
-[15:38:54] [Server thread/INFO]: [dynmap] Disabled
-[15:38:54] [Server thread/INFO]: Saving players
-[15:38:54] [Server thread/INFO]: Saving worlds
-[15:38:54] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[15:38:54] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[15:38:54] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[02:13:29] [Server thread/INFO]: Update render starting on world 'world'...[m
+[02:13:40] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 100 tiles rendered (103.02 msec/tile, 51.52 msec per render)[m
+[02:13:51] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 200 tiles rendered (110.60 msec/tile, 59.36 msec per render)[m
+[02:14:02] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 300 tiles rendered (107.97 msec/tile, 59.64 msec per render)[m
+[02:14:10] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 400 tiles rendered (102.42 msec/tile, 55.30 msec per render)[m
+[02:14:21] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 500 tiles rendered (102.94 msec/tile, 53.75 msec per render)[m
+[02:14:34] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 600 tiles rendered (106.32 msec/tile, 54.35 msec per render)[m
+[02:14:46] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 700 tiles rendered (108.19 msec/tile, 55.61 msec per render)[m
+[02:15:04] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 800 tiles rendered (116.01 msec/tile, 57.13 msec per render)[m
+[02:15:15] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 900 tiles rendered (116.20 msec/tile, 57.72 msec per render)[m
+[02:15:29] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 1000 tiles rendered (118.01 msec/tile, 57.43 msec per render)[m
+[02:15:41] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 1100 tiles rendered (117.86 msec/tile, 58.02 msec per render)[m
+[02:15:53] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 1200 tiles rendered (117.96 msec/tile, 58.50 msec per render)[m
+[02:16:05] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 1300 tiles rendered (118.29 msec/tile, 58.21 msec per render)[m
+[02:16:15] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 1400 tiles rendered (116.45 msec/tile, 57.37 msec per render)[m
+[02:16:28] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 1500 tiles rendered (117.11 msec/tile, 57.02 msec per render)[m
+[02:16:44] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 1600 tiles rendered (118.93 msec/tile, 57.75 msec per render)[m
+[02:17:00] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 1700 tiles rendered (120.87 msec/tile, 58.18 msec per render)[m
+[02:17:10] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 1800 tiles rendered (119.55 msec/tile, 57.44 msec per render)[m
+[02:17:24] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 1900 tiles rendered (120.53 msec/tile, 57.64 msec per render)[m
+[02:17:38] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 2000 tiles rendered (121.30 msec/tile, 57.68 msec per render)[m
+[02:17:49] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 2100 tiles rendered (120.25 msec/tile, 57.38 msec per render)[m
+[02:18:04] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 2200 tiles rendered (121.27 msec/tile, 57.38 msec per render)[m
+[02:18:14] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 2300 tiles rendered (120.51 msec/tile, 57.18 msec per render)[m
+[02:18:28] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 2400 tiles rendered (121.28 msec/tile, 57.27 msec per render)[m
+[02:18:44] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 2500 tiles rendered (122.82 msec/tile, 57.76 msec per render)[m
+[02:19:00] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 2600 tiles rendered (123.99 msec/tile, 57.96 msec per render)[m
+[02:19:14] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 2700 tiles rendered (124.31 msec/tile, 58.31 msec per render)[m
+[02:19:31] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 2800 tiles rendered (125.63 msec/tile, 58.62 msec per render)[m
+[02:19:45] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 2900 tiles rendered (126.08 msec/tile, 58.74 msec per render)[m
+[02:19:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2271ms behind, skipping 45 tick(s)
+[02:20:02] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 3000 tiles rendered (127.11 msec/tile, 58.60 msec per render)[m
+[02:20:15] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 3100 tiles rendered (127.16 msec/tile, 58.54 msec per render)[m
+[02:20:31] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 3200 tiles rendered (127.81 msec/tile, 58.77 msec per render)[m
+[02:20:44] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 3300 tiles rendered (127.77 msec/tile, 59.01 msec per render)[m
+[02:21:07] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 3400 tiles rendered (129.91 msec/tile, 59.85 msec per render)[m
+[02:21:20] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 3500 tiles rendered (129.83 msec/tile, 59.84 msec per render)[m
+[02:21:35] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 3600 tiles rendered (130.07 msec/tile, 60.13 msec per render)[m
+[02:21:45] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 3700 tiles rendered (129.34 msec/tile, 60.06 msec per render)[m
+[02:21:58] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 3800 tiles rendered (129.17 msec/tile, 59.97 msec per render)[m
+[02:22:13] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 3900 tiles rendered (129.57 msec/tile, 60.44 msec per render)[m
+[02:22:24] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 4000 tiles rendered (128.99 msec/tile, 60.07 msec per render)[m
+[02:22:34] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 4100 tiles rendered (128.18 msec/tile, 59.63 msec per render)[m
+[02:22:44] [Dynmap Render Thread/INFO]: Update render of map 'flat' of 'world' in progress - 4200 tiles rendered (127.38 msec/tile, 59.42 msec per render)[m
+[02:22:47] [Server thread/INFO]: Cancelled render for 'world'[m
+[02:23:19] [Server thread/INFO]: World 'world:surface' not defined/loaded[m
+[02:23:47] [Server thread/INFO]: Update render starting on world 'world'...[m
+[02:24:06] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 100 tiles rendered (192.59 msec/tile, 149.98 msec per render)[m
+[02:24:23] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 200 tiles rendered (180.82 msec/tile, 139.99 msec per render)[m
+[02:24:42] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 300 tiles rendered (183.17 msec/tile, 139.68 msec per render)[m
+[02:24:59] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 400 tiles rendered (180.45 msec/tile, 138.18 msec per render)[m
+[02:25:19] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 500 tiles rendered (184.37 msec/tile, 138.88 msec per render)[m
+[02:25:44] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 600 tiles rendered (195.35 msec/tile, 142.54 msec per render)[m
+[02:26:04] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 700 tiles rendered (196.35 msec/tile, 141.41 msec per render)[m
+[02:26:24] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 800 tiles rendered (195.99 msec/tile, 140.21 msec per render)[m
+[02:26:47] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 900 tiles rendered (199.73 msec/tile, 141.73 msec per render)[m
+[02:27:06] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 1000 tiles rendered (199.74 msec/tile, 139.24 msec per render)[m
+[02:27:24] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 1100 tiles rendered (197.56 msec/tile, 137.30 msec per render)[m
+[02:27:44] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 1200 tiles rendered (197.40 msec/tile, 135.42 msec per render)[m
+[02:28:09] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 1300 tiles rendered (201.16 msec/tile, 137.08 msec per render)[m
+[02:28:26] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 1400 tiles rendered (199.54 msec/tile, 135.38 msec per render)[m
+[02:28:49] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 1500 tiles rendered (201.30 msec/tile, 135.20 msec per render)[m
+[02:29:14] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 1600 tiles rendered (204.37 msec/tile, 136.04 msec per render)[m
+[02:29:39] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 1700 tiles rendered (206.59 msec/tile, 137.19 msec per render)[m
+[02:29:59] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 1800 tiles rendered (206.52 msec/tile, 135.12 msec per render)[m
+[02:30:23] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 1900 tiles rendered (208.17 msec/tile, 136.79 msec per render)[m
+[02:30:43] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 2000 tiles rendered (208.04 msec/tile, 135.84 msec per render)[m
+[02:31:06] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 2100 tiles rendered (208.62 msec/tile, 135.83 msec per render)[m
+[02:31:27] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 2200 tiles rendered (208.68 msec/tile, 135.68 msec per render)[m
+[02:31:49] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 2300 tiles rendered (209.30 msec/tile, 135.27 msec per render)[m
+[02:32:10] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 2400 tiles rendered (209.09 msec/tile, 134.66 msec per render)[m
+[02:32:30] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 2500 tiles rendered (208.83 msec/tile, 133.59 msec per render)[m
+[02:32:50] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 2600 tiles rendered (208.47 msec/tile, 132.60 msec per render)[m
+[02:33:15] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 2700 tiles rendered (209.75 msec/tile, 133.26 msec per render)[m
+[02:33:38] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 2800 tiles rendered (210.55 msec/tile, 132.60 msec per render)[m
+[02:34:01] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 2900 tiles rendered (211.20 msec/tile, 132.83 msec per render)[m
+[02:34:24] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 3000 tiles rendered (211.62 msec/tile, 132.64 msec per render)[m
+[02:34:45] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 3100 tiles rendered (211.62 msec/tile, 132.79 msec per render)[m
+[02:35:10] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 3200 tiles rendered (212.66 msec/tile, 132.09 msec per render)[m
+[02:35:32] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 3300 tiles rendered (213.04 msec/tile, 131.68 msec per render)[m
+[02:35:53] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 3400 tiles rendered (212.91 msec/tile, 131.63 msec per render)[m
+[02:36:15] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 3500 tiles rendered (213.16 msec/tile, 131.34 msec per render)[m
+[02:36:39] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 3600 tiles rendered (213.74 msec/tile, 131.18 msec per render)[m
+[02:37:00] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 3700 tiles rendered (213.63 msec/tile, 131.02 msec per render)[m
+[02:37:21] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 3800 tiles rendered (213.55 msec/tile, 130.34 msec per render)[m
+[02:37:39] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 3900 tiles rendered (212.68 msec/tile, 129.90 msec per render)[m
+[02:38:01] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 4000 tiles rendered (212.78 msec/tile, 129.38 msec per render)[m
+[02:38:21] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 4100 tiles rendered (212.45 msec/tile, 128.48 msec per render)[m
+[02:38:43] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 4200 tiles rendered (212.72 msec/tile, 128.83 msec per render)[m
+[02:39:04] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 4300 tiles rendered (212.72 msec/tile, 128.61 msec per render)[m
+[02:39:25] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 4400 tiles rendered (212.61 msec/tile, 128.80 msec per render)[m
+[02:39:46] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 4500 tiles rendered (212.56 msec/tile, 128.61 msec per render)[m
+[02:40:11] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 4600 tiles rendered (213.43 msec/tile, 128.43 msec per render)[m
+[02:40:30] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 4700 tiles rendered (212.78 msec/tile, 128.25 msec per render)[m
+[02:40:49] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 4800 tiles rendered (212.40 msec/tile, 127.65 msec per render)[m
+[02:41:10] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 4900 tiles rendered (212.39 msec/tile, 127.39 msec per render)[m
+[02:41:32] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 5000 tiles rendered (212.39 msec/tile, 127.41 msec per render)[m
+[02:41:53] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 5100 tiles rendered (212.43 msec/tile, 127.35 msec per render)[m
+[02:42:14] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 5200 tiles rendered (212.27 msec/tile, 127.24 msec per render)[m
+[02:42:35] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 5300 tiles rendered (212.31 msec/tile, 127.16 msec per render)[m
+[02:42:59] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 5400 tiles rendered (212.65 msec/tile, 127.16 msec per render)[m
+[02:43:21] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 5500 tiles rendered (212.83 msec/tile, 127.60 msec per render)[m
+[02:43:43] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 5600 tiles rendered (212.93 msec/tile, 127.38 msec per render)[m
+[02:44:05] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 5700 tiles rendered (213.02 msec/tile, 127.10 msec per render)[m
+[02:44:25] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 5800 tiles rendered (212.89 msec/tile, 127.39 msec per render)[m
+[02:44:49] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 5900 tiles rendered (213.24 msec/tile, 127.32 msec per render)[m
+[02:45:12] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 6000 tiles rendered (213.55 msec/tile, 127.03 msec per render)[m
+[02:45:34] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 6100 tiles rendered (213.71 msec/tile, 127.71 msec per render)[m
+[02:46:01] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 6200 tiles rendered (214.54 msec/tile, 127.56 msec per render)[m
+[02:46:18] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 6300 tiles rendered (213.87 msec/tile, 127.01 msec per render)[m
+[02:46:42] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 6400 tiles rendered (214.23 msec/tile, 127.76 msec per render)[m
+[02:47:05] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 6500 tiles rendered (214.44 msec/tile, 127.42 msec per render)[m
+[02:47:24] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 6600 tiles rendered (214.09 msec/tile, 127.05 msec per render)[m
+[02:47:49] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 6700 tiles rendered (214.63 msec/tile, 127.80 msec per render)[m
+[02:48:11] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 6800 tiles rendered (214.64 msec/tile, 127.52 msec per render)[m
+[02:48:19] [Server thread/INFO]: Cancelled render for 'world'[m
+[02:48:39] [Server thread/INFO]: Update render starting on world 'world'...[m
+[02:48:55] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 100 tiles rendered (154.97 msec/tile, 101.15 msec per render)[m
+[02:49:08] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 200 tiles rendered (142.23 msec/tile, 98.28 msec per render)[m
+[02:49:21] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 300 tiles rendered (139.39 msec/tile, 98.88 msec per render)[m
+[02:49:37] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 400 tiles rendered (144.61 msec/tile, 101.93 msec per render)[m
+[02:49:52] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 500 tiles rendered (145.62 msec/tile, 100.11 msec per render)[m
+[02:50:09] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 600 tiles rendered (149.55 msec/tile, 99.57 msec per render)[m
+[02:50:24] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 700 tiles rendered (149.92 msec/tile, 98.42 msec per render)[m
+[02:50:40] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 800 tiles rendered (151.15 msec/tile, 97.73 msec per render)[m
+[02:50:57] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 900 tiles rendered (153.29 msec/tile, 98.57 msec per render)[m
+[02:51:15] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 1000 tiles rendered (156.17 msec/tile, 99.20 msec per render)[m
+[02:51:38] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 1100 tiles rendered (162.12 msec/tile, 102.41 msec per render)[m
+[02:51:59] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 1200 tiles rendered (166.81 msec/tile, 104.09 msec per render)[m
+[02:52:15] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 1300 tiles rendered (166.05 msec/tile, 104.06 msec per render)[m
+[02:52:38] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 1400 tiles rendered (170.50 msec/tile, 106.07 msec per render)[m
+[02:53:00] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 1500 tiles rendered (173.48 msec/tile, 107.68 msec per render)[m
+[02:53:18] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 1600 tiles rendered (174.29 msec/tile, 108.36 msec per render)[m
+[02:53:37] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 1700 tiles rendered (175.30 msec/tile, 107.91 msec per render)[m
+[02:53:55] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 1800 tiles rendered (175.49 msec/tile, 108.46 msec per render)[m
+[02:54:15] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 1900 tiles rendered (176.52 msec/tile, 108.07 msec per render)[m
+[02:54:37] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 2000 tiles rendered (178.78 msec/tile, 109.51 msec per render)[m
+[02:54:56] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 2100 tiles rendered (179.50 msec/tile, 109.68 msec per render)[m
+[02:55:15] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 2200 tiles rendered (179.80 msec/tile, 110.10 msec per render)[m
+[02:55:32] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 2300 tiles rendered (179.25 msec/tile, 109.88 msec per render)[m
+[02:55:55] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 2400 tiles rendered (181.27 msec/tile, 110.99 msec per render)[m
+[02:56:07] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 2500 tiles rendered (179.05 msec/tile, 109.77 msec per render)[m
+[02:56:25] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 2600 tiles rendered (179.09 msec/tile, 109.29 msec per render)[m
+[02:56:38] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 2700 tiles rendered (177.24 msec/tile, 108.15 msec per render)[m
+[02:57:02] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 2800 tiles rendered (179.42 msec/tile, 109.37 msec per render)[m
+[02:57:16] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 2900 tiles rendered (178.00 msec/tile, 108.66 msec per render)[m
+[02:57:35] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 3000 tiles rendered (178.48 msec/tile, 108.80 msec per render)[m
+[02:57:54] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 3100 tiles rendered (178.67 msec/tile, 109.42 msec per render)[m
+[02:58:13] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 3200 tiles rendered (179.15 msec/tile, 109.74 msec per render)[m
+[02:58:29] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 3300 tiles rendered (178.58 msec/tile, 109.51 msec per render)[m
+[02:58:50] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 3400 tiles rendered (179.53 msec/tile, 110.89 msec per render)[m
+[02:59:09] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 3500 tiles rendered (179.63 msec/tile, 110.69 msec per render)[m
+[02:59:25] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 3600 tiles rendered (179.14 msec/tile, 111.00 msec per render)[m
+[02:59:45] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 3700 tiles rendered (179.78 msec/tile, 111.20 msec per render)[m
+[03:00:05] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 3800 tiles rendered (180.25 msec/tile, 112.12 msec per render)[m
+[03:00:23] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 3900 tiles rendered (180.33 msec/tile, 111.87 msec per render)[m
+[03:00:38] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 4000 tiles rendered (179.41 msec/tile, 111.80 msec per render)[m
+[03:00:57] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 4100 tiles rendered (179.89 msec/tile, 111.71 msec per render)[m
+[03:01:11] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 4200 tiles rendered (178.88 msec/tile, 111.46 msec per render)[m
+[03:01:29] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 4300 tiles rendered (178.82 msec/tile, 111.25 msec per render)[m
+[03:01:43] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 4400 tiles rendered (177.89 msec/tile, 110.82 msec per render)[m
+[03:01:57] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 4500 tiles rendered (177.04 msec/tile, 110.47 msec per render)[m
+[03:02:10] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 4600 tiles rendered (176.11 msec/tile, 109.75 msec per render)[m
+[03:02:24] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 4700 tiles rendered (175.25 msec/tile, 109.59 msec per render)[m
+[03:02:40] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 4800 tiles rendered (174.91 msec/tile, 109.17 msec per render)[m
+[03:02:55] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 4900 tiles rendered (174.19 msec/tile, 109.06 msec per render)[m
+[03:03:10] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 5000 tiles rendered (173.80 msec/tile, 108.59 msec per render)[m
+[03:03:25] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 5100 tiles rendered (173.22 msec/tile, 108.56 msec per render)[m
+[03:03:41] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 5200 tiles rendered (172.96 msec/tile, 108.21 msec per render)[m
+[03:03:55] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 5300 tiles rendered (172.40 msec/tile, 108.19 msec per render)[m
+[03:04:10] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 5400 tiles rendered (171.86 msec/tile, 107.67 msec per render)[m
+[03:04:22] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 5500 tiles rendered (170.90 msec/tile, 107.27 msec per render)[m
+[03:04:37] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 5600 tiles rendered (170.54 msec/tile, 106.91 msec per render)[m
+[03:04:48] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 5700 tiles rendered (169.50 msec/tile, 106.26 msec per render)[m
+[03:05:05] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 5800 tiles rendered (169.42 msec/tile, 106.01 msec per render)[m
+[03:05:17] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 5900 tiles rendered (168.59 msec/tile, 105.51 msec per render)[m
+[03:05:33] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 6000 tiles rendered (168.40 msec/tile, 105.31 msec per render)[m
+[03:05:44] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 6100 tiles rendered (167.51 msec/tile, 104.80 msec per render)[m
+[03:06:00] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 6200 tiles rendered (167.40 msec/tile, 104.57 msec per render)[m
+[03:06:14] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 6300 tiles rendered (166.89 msec/tile, 104.49 msec per render)[m
+[03:06:30] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 6400 tiles rendered (166.70 msec/tile, 104.14 msec per render)[m
+[03:06:42] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 6500 tiles rendered (165.95 msec/tile, 103.72 msec per render)[m
+[03:06:56] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 6600 tiles rendered (165.55 msec/tile, 103.36 msec per render)[m
+[03:07:12] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 6700 tiles rendered (165.43 msec/tile, 103.43 msec per render)[m
+[03:07:23] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 6800 tiles rendered (164.67 msec/tile, 102.98 msec per render)[m
+[03:07:42] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 6900 tiles rendered (165.04 msec/tile, 103.10 msec per render)[m
+[03:08:01] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 7000 tiles rendered (165.33 msec/tile, 103.57 msec per render)[m
+[03:08:13] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 7100 tiles rendered (164.63 msec/tile, 103.04 msec per render)[m
+[03:08:29] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 7200 tiles rendered (164.55 msec/tile, 102.89 msec per render)[m
+[03:08:42] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 7300 tiles rendered (164.12 msec/tile, 102.80 msec per render)[m
+[03:08:55] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 7400 tiles rendered (163.69 msec/tile, 102.53 msec per render)[m
+[03:09:10] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 7500 tiles rendered (163.47 msec/tile, 102.35 msec per render)[m
+[03:09:27] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 7600 tiles rendered (163.45 msec/tile, 102.49 msec per render)[m
+[03:09:40] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 7700 tiles rendered (162.99 msec/tile, 102.19 msec per render)[m
+[03:09:53] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 7800 tiles rendered (162.64 msec/tile, 102.01 msec per render)[m
+[03:10:07] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 7900 tiles rendered (162.38 msec/tile, 101.78 msec per render)[m
+[03:10:20] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 8000 tiles rendered (161.90 msec/tile, 101.51 msec per render)[m
+[03:10:35] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 8100 tiles rendered (161.70 msec/tile, 101.28 msec per render)[m
+[03:10:47] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 8200 tiles rendered (161.16 msec/tile, 100.91 msec per render)[m
+[03:10:57] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 8300 tiles rendered (160.39 msec/tile, 100.48 msec per render)[m
+[03:11:12] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 8400 tiles rendered (160.29 msec/tile, 100.39 msec per render)[m
+[03:11:28] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 8500 tiles rendered (160.25 msec/tile, 100.28 msec per render)[m
+[03:11:38] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 8600 tiles rendered (159.60 msec/tile, 99.95 msec per render)[m
+[03:11:52] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 8700 tiles rendered (159.27 msec/tile, 99.80 msec per render)[m
+[03:12:14] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 8800 tiles rendered (159.96 msec/tile, 100.47 msec per render)[m
+[03:12:30] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 8900 tiles rendered (159.95 msec/tile, 100.59 msec per render)[m
+[03:12:43] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 9000 tiles rendered (159.59 msec/tile, 100.41 msec per render)[m
+[03:13:03] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 9100 tiles rendered (160.00 msec/tile, 100.81 msec per render)[m
+[03:13:22] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 9200 tiles rendered (160.31 msec/tile, 101.15 msec per render)[m
+[03:13:34] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 9300 tiles rendered (159.86 msec/tile, 100.95 msec per render)[m
+[03:14:00] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 9400 tiles rendered (160.91 msec/tile, 101.87 msec per render)[m
+[03:14:20] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 9500 tiles rendered (161.38 msec/tile, 102.34 msec per render)[m
+[03:14:34] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 9600 tiles rendered (161.07 msec/tile, 102.20 msec per render)[m
+[03:14:48] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 9700 tiles rendered (160.91 msec/tile, 102.17 msec per render)[m
+[03:15:08] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 9800 tiles rendered (161.29 msec/tile, 102.47 msec per render)[m
+[03:15:24] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 9900 tiles rendered (161.24 msec/tile, 102.40 msec per render)[m
+[03:15:39] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 10000 tiles rendered (161.08 msec/tile, 102.47 msec per render)[m
+[03:15:58] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 10100 tiles rendered (161.41 msec/tile, 102.79 msec per render)[m
+[03:16:18] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 10200 tiles rendered (161.72 msec/tile, 103.05 msec per render)[m
+[03:16:33] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 10300 tiles rendered (161.64 msec/tile, 103.08 msec per render)[m
+[03:16:55] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 10400 tiles rendered (162.16 msec/tile, 103.56 msec per render)[m
+[03:17:15] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 10500 tiles rendered (162.51 msec/tile, 103.84 msec per render)[m
+[03:17:28] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 10600 tiles rendered (162.21 msec/tile, 103.68 msec per render)[m
+[03:17:43] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 10700 tiles rendered (162.09 msec/tile, 103.67 msec per render)[m
+[03:18:00] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 10800 tiles rendered (162.10 msec/tile, 103.70 msec per render)[m
+[03:18:12] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 10900 tiles rendered (161.73 msec/tile, 103.41 msec per render)[m
+[03:18:28] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 11000 tiles rendered (161.72 msec/tile, 103.56 msec per render)[m
+[03:18:44] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 11100 tiles rendered (161.66 msec/tile, 103.53 msec per render)[m
+[03:18:56] [Dynmap Render Thread/INFO]: Update render of map 'surface' of 'world' in progress - 11200 tiles rendered (161.30 msec/tile, 103.16 msec per render)[m
+[03:19:08] [Server thread/INFO]: Cancelled render for 'world'[m
+[03:21:26] [User Authenticator #6/INFO]: UUID of player J_J_Doubletime is 335c2fe4-8836-42ce-b95b-9a5d4b1c36ca
+[03:21:26] [Server thread/INFO]: J_J_Doubletime[/61.105.204.231:62105] logged in with entity id 418378 at ([world]-273.63243732762174, 70.0, 182.79484353936905)
+[03:21:50] [Server thread/INFO]: [0;32;22m[WEB] J_J_Doubletime: [0;37;1mhey[m
+[03:22:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2010ms behind, skipping 40 tick(s)
+[03:22:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6553ms behind, skipping 131 tick(s)
+[03:22:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9148ms behind, skipping 182 tick(s)
+[03:23:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9508ms behind, skipping 190 tick(s)
+[03:23:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5094ms behind, skipping 101 tick(s)
+[03:23:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10098ms behind, skipping 201 tick(s)
+[03:24:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8885ms behind, skipping 177 tick(s)
+[03:24:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6013ms behind, skipping 120 tick(s)
+[03:24:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8761ms behind, skipping 175 tick(s)
+[03:24:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11664ms behind, skipping 233 tick(s)
+[03:25:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5011ms behind, skipping 100 tick(s)
+[03:25:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11127ms behind, skipping 222 tick(s)
+[03:25:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5591ms behind, skipping 111 tick(s)
+[03:26:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10082ms behind, skipping 201 tick(s)
+[03:26:04] [Server thread/INFO]: J_J_Doubletime lost connection: Disconnected
+[03:26:04] [Server thread/INFO]: J_J_Doubletime left the game
+[03:28:03] [User Authenticator #7/INFO]: UUID of player J_J_Doubletime is 335c2fe4-8836-42ce-b95b-9a5d4b1c36ca
+[03:28:03] [Server thread/INFO]: J_J_Doubletime[/61.105.204.231:62197] logged in with entity id 424476 at ([world]-308.2528647877956, 85.0, 231.4641842753127)
+[03:28:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2890ms behind, skipping 57 tick(s)
+[03:28:28] [Server thread/INFO]: J_J_Doubletime lost connection: Disconnected
+[03:28:28] [Server thread/INFO]: J_J_Doubletime left the game
+[03:28:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2326ms behind, skipping 46 tick(s)
+[03:29:45] [Server thread/INFO]: [0;32;22m[WEB] J_J_Doubletime: [0;37;1mle[m
+[03:29:51] [Server thread/INFO]: [0;32;22m[WEB] J_J_Doubletime: [0;37;1mtest[m
+[05:52:43] [User Authenticator #8/INFO]: UUID of player illuxic is cce6a005-4dc7-4fb5-b541-051126c83f44
+[05:52:43] [Server thread/INFO]: illuxic[/121.180.232.99:59055] logged in with entity id 425485 at ([world]688.345644648363, 66.8500000178814, 342.55855194060825)
+[05:58:02] [Server thread/WARN]: Horse moved wrongly!
+[05:58:02] [Server thread/WARN]: Horse moved wrongly!
+[05:58:02] [Server thread/WARN]: Horse moved wrongly!
+[05:58:02] [Server thread/WARN]: Horse moved wrongly!
+[05:58:02] [Server thread/WARN]: Horse moved wrongly!
+[05:58:02] [Server thread/WARN]: Horse moved wrongly!
+[05:58:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2958ms behind, skipping 59 tick(s)
+[05:58:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12351ms behind, skipping 247 tick(s)
+[05:58:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5870ms behind, skipping 117 tick(s)
+[05:59:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11743ms behind, skipping 234 tick(s)
+[05:59:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5627ms behind, skipping 112 tick(s)
+[06:00:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17277ms behind, skipping 345 tick(s)
+[06:00:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3721ms behind, skipping 74 tick(s)
+[06:04:53] [Server thread/INFO]: [0;32;22m[WEB] J_J_Doubletime: [0;37;1m/wwo[m
+[06:05:30] [Netty Epoll Server IO #3/INFO]: <illuxic> what does it mean?[m
+[06:05:44] [Netty Epoll Server IO #3/INFO]: <illuxic> just a cmd?[m
+[06:07:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2296ms behind, skipping 45 tick(s)
+[06:08:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15394ms behind, skipping 307 tick(s)
+[06:08:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2633ms behind, skipping 52 tick(s)
+[06:08:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10765ms behind, skipping 215 tick(s)
+[06:08:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8684ms behind, skipping 173 tick(s)
+[06:09:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8785ms behind, skipping 175 tick(s)
+[06:09:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15403ms behind, skipping 308 tick(s)
+[06:09:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3697ms behind, skipping 73 tick(s)
+[06:10:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17365ms behind, skipping 347 tick(s)
+[06:10:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2935ms behind, skipping 58 tick(s)
+[06:10:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9075ms behind, skipping 181 tick(s)
+[06:11:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14557ms behind, skipping 291 tick(s)
+[06:11:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6318ms behind, skipping 126 tick(s)
+[06:11:28] [Server thread/INFO]: illuxic has just earned the achievement [Cow Tipper]
+[06:11:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 20085ms behind, skipping 401 tick(s)
+[06:12:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5294ms behind, skipping 105 tick(s)
+[06:12:16] [Server thread/INFO]: illuxic has just earned the achievement [Repopulation]
+[06:12:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 18442ms behind, skipping 368 tick(s)
+[06:12:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3344ms behind, skipping 66 tick(s)
+[06:13:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 19230ms behind, skipping 384 tick(s)
+[06:13:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5024ms behind, skipping 100 tick(s)
+[06:13:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 24070ms behind, skipping 481 tick(s)
+[06:14:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5023ms behind, skipping 100 tick(s)
+[06:14:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11404ms behind, skipping 228 tick(s)
+[06:14:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7127ms behind, skipping 142 tick(s)
+[06:15:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14808ms behind, skipping 296 tick(s)
+[06:15:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8433ms behind, skipping 168 tick(s)
+[06:15:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17015ms behind, skipping 340 tick(s)
+[06:15:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3511ms behind, skipping 70 tick(s)
+[06:16:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 25799ms behind, skipping 515 tick(s)
+[06:16:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4414ms behind, skipping 88 tick(s)
+[06:16:57] [Server thread/INFO]: illuxic lost connection: Disconnected
+[06:16:57] [Server thread/INFO]: illuxic left the game
+[06:16:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6731ms behind, skipping 134 tick(s)
+[10:00:41] [User Authenticator #9/INFO]: UUID of player jmc0417 is 774ef803-2da7-473d-a79b-9bee0fcce8ec
+[10:00:41] [Server thread/INFO]: jmc0417[/119.202.81.224:63727] logged in with entity id 447886 at ([world]657.3333206544504, 71.0, 395.11637067265826)
+[10:51:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2859ms behind, skipping 57 tick(s)
+[10:52:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 24848ms behind, skipping 496 tick(s)
+[10:52:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3897ms behind, skipping 77 tick(s)
+[10:53:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14442ms behind, skipping 288 tick(s)
+[10:53:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8045ms behind, skipping 160 tick(s)
+[10:53:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9918ms behind, skipping 198 tick(s)
+[10:54:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10676ms behind, skipping 213 tick(s)
+[10:54:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5323ms behind, skipping 106 tick(s)
+[10:55:33] [User Authenticator #10/INFO]: UUID of player MadGay is 376185f2-fe72-4871-98af-cf6900b720ba
+[10:55:34] [Server thread/INFO]: MadGay[/119.202.80.25:10315] logged in with entity id 495176 at ([world]-1750.012673206865, 68.0, 30203.67482584743)
+[10:55:38] [Netty Epoll Server IO #2/INFO]: <jmc0417> gd[m
+[10:55:41] [Netty Epoll Server IO #0/INFO]: <MadGay> gd[m
+[10:55:46] [Netty Epoll Server IO #0/INFO]: <MadGay> cpu 도둑 왔다[m
+[10:55:53] [Netty Epoll Server IO #2/INFO]: <jmc0417> 아직도 20000 근처에 있읔?[m
+[10:55:56] [Netty Epoll Server IO #0/INFO]: <MadGay> 30000[m
+[10:55:58] [Netty Epoll Server IO #2/INFO]: <jmc0417> zzzz[m
+[10:57:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2457ms behind, skipping 49 tick(s)
+[11:00:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2005ms behind, skipping 40 tick(s)
+[11:00:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3447ms behind, skipping 68 tick(s)
+[11:00:34] [Server thread/INFO]: jmc0417 lost connection: Disconnected
+[11:00:34] [Server thread/INFO]: jmc0417 left the game
+[11:01:12] [User Authenticator #11/INFO]: UUID of player jmc0417 is 774ef803-2da7-473d-a79b-9bee0fcce8ec
+[11:01:12] [Server thread/INFO]: jmc0417[/119.202.81.224:65433] logged in with entity id 507480 at ([world_nether]-145.02933334554086, 32.1090547294065, 157.02951436038512)
+[11:01:17] [Server thread/INFO]: jmc0417 lost connection: Disconnected
+[11:01:17] [Server thread/INFO]: jmc0417 left the game
+[11:02:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2418ms behind, skipping 48 tick(s)
+[11:03:00] [User Authenticator #12/INFO]: UUID of player jmc0417 is 774ef803-2da7-473d-a79b-9bee0fcce8ec
+[11:03:00] [Server thread/INFO]: jmc0417[/119.202.81.224:65509] logged in with entity id 511879 at ([world_nether]-140.04085272258246, 31.875, 149.756786740887)
+[11:03:38] [Server thread/INFO]: jmc0417 lost connection: Disconnected
+[11:03:38] [Server thread/INFO]: jmc0417 left the game
+[11:04:51] [User Authenticator #13/INFO]: UUID of player jmc0417 is 774ef803-2da7-473d-a79b-9bee0fcce8ec
+[11:04:51] [Server thread/INFO]: jmc0417[/119.202.81.224:49197] logged in with entity id 514568 at ([world_nether]-134.45287307348642, 49.0, 137.06952317358372)
+[11:05:04] [Server thread/INFO]: jmc0417 lost connection: Disconnected
+[11:05:04] [Server thread/INFO]: jmc0417 left the game
+[11:05:27] [User Authenticator #14/INFO]: UUID of player jmc0417 is 774ef803-2da7-473d-a79b-9bee0fcce8ec
+[11:05:27] [Server thread/INFO]: jmc0417[/119.202.81.224:49226] logged in with entity id 514943 at ([world_nether]-144.6814352682218, 50.35462112371022, 108.19163463067355)
+[11:06:09] [Netty Epoll Server IO #0/INFO]: <jmc0417> 휴[m
+[11:07:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2031ms behind, skipping 40 tick(s)
+[11:09:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3575ms behind, skipping 71 tick(s)
+[11:10:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 48164ms behind, skipping 963 tick(s)
+[11:10:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6011ms behind, skipping 120 tick(s)
+[11:11:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11034ms behind, skipping 220 tick(s)
+[11:11:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12909ms behind, skipping 258 tick(s)
+[11:11:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10535ms behind, skipping 210 tick(s)
+[11:12:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15904ms behind, skipping 318 tick(s)
+[11:12:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4142ms behind, skipping 82 tick(s)
+[11:12:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 23229ms behind, skipping 464 tick(s)
+[11:12:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4085ms behind, skipping 81 tick(s)
+[11:13:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 21188ms behind, skipping 423 tick(s)
+[11:13:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3064ms behind, skipping 61 tick(s)
+[11:14:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 18767ms behind, skipping 375 tick(s)
+[11:14:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3415ms behind, skipping 68 tick(s)
+[11:14:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17590ms behind, skipping 351 tick(s)
+[11:14:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4363ms behind, skipping 87 tick(s)
+[11:15:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 21183ms behind, skipping 423 tick(s)
+[11:15:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3307ms behind, skipping 66 tick(s)
+[11:16:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 48330ms behind, skipping 966 tick(s)
+[11:16:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2905ms behind, skipping 58 tick(s)
+[11:17:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 21451ms behind, skipping 429 tick(s)
+[11:17:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3591ms behind, skipping 71 tick(s)
+[11:18:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 22755ms behind, skipping 455 tick(s)
+[11:18:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2910ms behind, skipping 58 tick(s)
+[11:19:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 33061ms behind, skipping 661 tick(s)
+[11:19:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3280ms behind, skipping 65 tick(s)
+[11:19:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17678ms behind, skipping 353 tick(s)
+[11:19:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3545ms behind, skipping 70 tick(s)
+[11:20:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 24186ms behind, skipping 483 tick(s)
+[11:20:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5195ms behind, skipping 103 tick(s)
+[11:21:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8265ms behind, skipping 165 tick(s)
+[11:21:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2179ms behind, skipping 43 tick(s)
+[11:23:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3167ms behind, skipping 63 tick(s)
+[11:24:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2015ms behind, skipping 40 tick(s)
+[11:25:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2399ms behind, skipping 47 tick(s)
+[11:28:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4515ms behind, skipping 90 tick(s)
+[11:29:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2081ms behind, skipping 41 tick(s)
+[11:29:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2741ms behind, skipping 54 tick(s)
+[11:29:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2708ms behind, skipping 54 tick(s)
+[11:30:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3190ms behind, skipping 63 tick(s)
+[11:30:07] [Server thread/INFO]: MadGay fell from a high place
+[11:30:11] [Netty Epoll Server IO #0/INFO]: <jmc0417> ㄷ[m
+[11:30:17] [Netty Epoll Server IO #0/INFO]: <MadGay> 안돼[m
+[11:30:21] [Netty Epoll Server IO #0/INFO]: <MadGay> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[11:30:21] [Netty Epoll Server IO #0/INFO]: <jmc0417> 드디어 귀환[m
+[11:30:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4891ms behind, skipping 97 tick(s)
+[11:30:37] [Netty Epoll Server IO #0/INFO]: <jmc0417> 의도치않은 귀환임?[m
+[11:30:40] [Netty Epoll Server IO #0/INFO]: <MadGay> ㅇㅇ[m
+[11:30:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7241ms behind, skipping 144 tick(s)
+[11:30:50] [Netty Epoll Server IO #0/INFO]: <MadGay> 경험치 다 날아갔네[m
+[11:31:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8226ms behind, skipping 164 tick(s)
+[11:31:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7880ms behind, skipping 157 tick(s)
+[11:31:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6820ms behind, skipping 136 tick(s)
+[11:31:37] [Netty Epoll Server IO #0/INFO]: <MadGay> 아 현자타임[m
+[11:31:43] [Server thread/INFO]: MadGay lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[11:31:43] [Server thread/INFO]: MadGay left the game
+[11:34:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2010ms behind, skipping 40 tick(s)
+[11:47:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2367ms behind, skipping 47 tick(s)
+[11:47:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11283ms behind, skipping 225 tick(s)
+[11:47:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6705ms behind, skipping 134 tick(s)
+[11:48:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9680ms behind, skipping 193 tick(s)
+[11:48:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14030ms behind, skipping 280 tick(s)
+[11:48:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5954ms behind, skipping 119 tick(s)
+[11:49:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11197ms behind, skipping 223 tick(s)
+[11:49:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6159ms behind, skipping 123 tick(s)
+[11:49:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10240ms behind, skipping 204 tick(s)
+[12:00:01] [Server thread/INFO]: [Server] [Backup] Server goes volatile for backup in 10 seconds
+[12:00:11] [Server thread/INFO]: [Server] [Backup] World is now volatile. Things may not be auto-saved for a short moment.
+[12:00:11] [Server thread/INFO]: Turned off world auto-saving
+[12:00:11] [Server thread/INFO]: Saving...
+[12:00:12] [Server thread/INFO]: Saved the world
+[12:00:29] [Server thread/INFO]: jmc0417 lost connection: Disconnected
+[12:00:29] [Server thread/INFO]: jmc0417 left the game
+[12:00:46] [User Authenticator #15/INFO]: UUID of player jmc0417 is 774ef803-2da7-473d-a79b-9bee0fcce8ec
+[12:00:46] [Server thread/INFO]: jmc0417[/119.202.81.224:50794] logged in with entity id 609471 at ([world_nether]-132.67332970698754, 32.0, 139.69999998807907)
+[12:00:51] [Server thread/INFO]: jmc0417 lost connection: Disconnected
+[12:00:51] [Server thread/INFO]: jmc0417 left the game
