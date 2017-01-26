@@ -1,3 +1,14 @@
+[04:52:44] [User Authenticator #37/INFO]: UUID of player HanKukSanBae is 4e3e5c05-62f1-4fa7-a471-8f8e9950fb07
+[04:52:44] [Server thread/INFO]: HanKukSanBae[/119.202.80.70:3430] logged in with entity id 1556285 at ([world]515.5456441402131, 68.7125, 350.5)
+[04:54:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2500ms behind, skipping 50 tick(s)
+[04:54:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11114ms behind, skipping 222 tick(s)
+[04:55:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2628ms behind, skipping 52 tick(s)
+[05:10:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2035ms behind, skipping 40 tick(s)
+[05:10:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2230ms behind, skipping 44 tick(s)
+[05:11:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2389ms behind, skipping 47 tick(s)
+[05:11:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7592ms behind, skipping 151 tick(s)
+[05:13:49] [Server thread/INFO]: HanKukSanBae lost connection: Disconnected
+[05:13:49] [Server thread/INFO]: HanKukSanBae left the game
 [12:00:01] [Server thread/INFO]: [Server] [Backup] Server goes volatile for backup in 10 seconds
 [12:00:11] [Server thread/INFO]: [Server] [Backup] World is now volatile. Things may not be auto-saved for a short moment.
 [12:00:11] [Server thread/INFO]: Turned off world auto-saving
