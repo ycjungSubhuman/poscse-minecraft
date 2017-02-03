@@ -1,32 +1,4 @@
-[07:12:23] [User Authenticator #43/INFO]: UUID of player PohangGaeguri is 10cae923-68cc-4db8-818a-f6be3174ecb2
-[07:12:24] [Server thread/INFO]: PohangGaeguri[/141.223.176.77:8554] logged in with entity id 1965128 at ([world]-341.5, 77.0, 301.5)
-[07:12:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2065ms behind, skipping 41 tick(s)
-[07:12:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10616ms behind, skipping 212 tick(s)
-[07:13:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7443ms behind, skipping 148 tick(s)
-[07:13:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7738ms behind, skipping 154 tick(s)
-[07:13:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8569ms behind, skipping 171 tick(s)
-[07:13:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5687ms behind, skipping 113 tick(s)
-[07:14:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9933ms behind, skipping 198 tick(s)
-[07:14:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7559ms behind, skipping 151 tick(s)
-[07:15:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 25734ms behind, skipping 514 tick(s)
-[07:17:05] [Server thread/INFO]: PohangGaeguri has just earned the achievement [On A Rail]
-[07:23:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3444ms behind, skipping 68 tick(s)
-[07:24:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12042ms behind, skipping 240 tick(s)
-[07:24:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4903ms behind, skipping 98 tick(s)
-[07:24:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10741ms behind, skipping 214 tick(s)
-[07:25:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9546ms behind, skipping 190 tick(s)
-[07:25:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8973ms behind, skipping 179 tick(s)
-[07:25:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6474ms behind, skipping 129 tick(s)
-[07:25:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5666ms behind, skipping 113 tick(s)
-[07:26:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17872ms behind, skipping 357 tick(s)
-[07:26:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3708ms behind, skipping 74 tick(s)
-[07:27:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 19395ms behind, skipping 387 tick(s)
-[07:27:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3475ms behind, skipping 69 tick(s)
-[07:27:38] [Server thread/INFO]: PohangGaeguri lost connection: Timed out
-[07:27:38] [Server thread/INFO]: PohangGaeguri left the game
-[07:27:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13129ms behind, skipping 262 tick(s)
-[12:00:02] [Server thread/INFO]: [Server] [Backup] Server goes volatile for backup in 10 seconds
+[12:00:01] [Server thread/INFO]: [Server] [Backup] Server goes volatile for backup in 10 seconds
 [12:00:11] [Server thread/INFO]: [Server] [Backup] World is now volatile. Things may not be auto-saved for a short moment.
-[12:00:11] [Server thread/INFO]: Turned off world auto-saving
 [12:00:11] [Server thread/INFO]: Saving...
-[12:00:12] [Server thread/INFO]: Saved the world
+[12:00:11] [Server thread/INFO]: Saved the world
