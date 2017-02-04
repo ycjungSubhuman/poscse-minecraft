@@ -1,4 +1,5 @@
 [12:00:01] [Server thread/INFO]: [Server] [Backup] Server goes volatile for backup in 10 seconds
 [12:00:11] [Server thread/INFO]: [Server] [Backup] World is now volatile. Things may not be auto-saved for a short moment.
+[12:00:11] [Server thread/INFO]: Turned off world auto-saving
 [12:00:11] [Server thread/INFO]: Saving...
 [12:00:11] [Server thread/INFO]: Saved the world
